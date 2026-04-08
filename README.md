@@ -29,7 +29,7 @@ O núcleo central deste projeto, contendo toda a lógica de pré-processamento, 
 
 A documentação completa do projeto e os notebooks de execução estão disponíveis na raiz do repositório. Os resultados consolidados podem ser encontrados em:
 - [J1 — Métricas Analíticas](J1_metricas_finais_Victor.csv)
-- [Gráficos de Performance](Grafico_Comparativo_OAB_Victor.png)(Grafico_Radar_Modelos_Victor.png)
+- Gráficos de Performance: [Gráfico Comparativo](Grafico_Comparativo_OAB_Victor.png), [Gráfico de Radar](Grafico_Radar_Modelos_Victor.jpg)
 
 ## Domínio de atuação
 
