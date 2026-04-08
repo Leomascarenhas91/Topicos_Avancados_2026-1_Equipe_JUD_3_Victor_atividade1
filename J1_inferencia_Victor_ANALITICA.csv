@@ -1,0 +1,665 @@
+﻿question_id,category,statement,turns,values,system,Complexidade_Raciocinio_LLM,Subdominio_Semantico,Corpus_Aterramento,Resposta_Llama_3.1_8B,Resposta_Mistral_7B,Resposta_DeepSeek_R1_8B
+44_direito_tributario_peca_profissional,44_direito_tributario,"A sociedade empresária Panos Belos Ltda., que atua no atacado de tecidos, sediada no Município Alfa, Estado Beta, enfrentando dificuldades financeiras no período entre janeiro e junho de 2024, embora tenha corretamente declarado o ICMS devido que lhe cabia recolher, deixou de efetuar o pagamento do tributo declarado, uma vez que preferiu honrar o pagamento de seus funcionários e fornecedores.
+Em razão disso, o Fisco do Estado Beta notificou a sociedade empresária para o pagamento em setembro de 2024, mas, como esta não adimpliu o débito, inscreveu-a em dívida ativa, iniciando a sua cobrança judicial por meio de Ação de Execução Fiscal distribuída à Vara Única do Município Alfa em 5/3/2025.
+A sociedade empresária foi encontrada para ser citada no endereço indicado perante o Fisco Estadual, mas não foram encontrados bens penhoráveis da sociedade empresária devedora, o que levou o Fisco estadual a requerer o redirecionamento da execução fiscal para Mateus, que fora sócio cotista da sociedade empresária até dezembro de 2023, quando se retirou da sociedade.
+Deferido o redirecionamento pelo Juízo, por meio do sistema RENAJUD, foram encontrados em nome de Mateus dois automóveis importados, os quais sofreram constrição judicial. Embora intimado da penhora em junho de 2025, Mateus quedou-se inerte e nem mesmo procurou advogado. Apenas em setembro de 2025, quando o Oficial de Justiça apareceu na porta de sua casa, com ordem judicial para remover os automóveis para o depósito judicial, Mateus resolveu procurar você, como advogado(a), para realizar sua defesa nessa execução fiscal.
+Mateus entrega-lhe cópia do contrato social da sociedade empresária, no qual fica atestado que era sócio cotista, assim como a cópia da ata em que se retirou da sociedade em dezembro de 2023 e a nova versão do contrato social, em que seu nome já não consta, tudo devidamente levado a registro perante a Junta Comercial do Estado Beta. Informa também não dispor, naquele momento, de recursos financeiros para realizar qualquer pagamento, sendo proprietário apenas dos dois automóveis penhorados.
+Diante dos fatos expostos, redija a peça de defesa adequada para defender o seu cliente, a ser apresentada nos autos da própria execução fiscal. (Valor: 5,00)
+Obs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.",[''],[5.0],"Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Hermenêutica Jurídica Complexa,Subdomínio: Direito Tributário,Corpus: Código Tributário Nacional e Lei de Execuções Fiscais,"**SÍNTESE DO CASO:** O sócio cotista da sociedade empresária Panos Belos Ltda., Mateus, é acionado em execução fiscal para responder pelo débito de ICMS declarado e não pago pela empresa, tendo seus bens penhorados.
+
+**FUNDAMENTAÇÃO LEGAL:**
+
+*   Art. 185 do Código Tributário Nacional (CTN): ""O crédito tributário é extensivo aos bens do devedor, ainda que não sejam de sua propriedade, desde que estejam sob seu poder ou em seu domínio.""
+*   Art. 186 do CTN: ""Os bens do devedor, ainda que não sejam de sua propriedade, podem ser penhorados para satisfazer o crédito tributário, desde que estejam sob seu poder ou em seu domínio.""
+
+**ANÁLISE TÉCNICA:** A sociedade empresária Panos Belos Ltda. deixou de pagar o ICMS declarado no período entre janeiro e junho de 2024, sendo notificada pelo Fisco do Estado Beta para pagamento em setembro de 2024. Como não adimpliu o débito, foi inscrita em dívida ativa e iniciou-se a cobrança judicial por meio de Ação de Execução Fiscal.
+
+O sócio cotista Mateus, que se retirou da sociedade em dezembro de 2023, teve seus bens penhorados para satisfazer o crédito tributário. No entanto, ele não foi notificado da penhora e apenas foi intimado em junho de 2025.
+
+**CONCLUSÃO:** A peça de defesa deve argumentar que a penhora dos bens do sócio cotista Mateus é ilegal, pois não houve a devida notificação dele sobre a penhora. Além disso, a execução fiscal deve ser suspensa até que sejam verificadas as condições de inscrição da dívida ativa e a regularidade da cobrança judicial.
+
+**PEÇA DE DEFESA:**
+
+""À Excelentíssima Juíza/Vara Única do Município Alfa,
+
+Em face dos autos da Execução Fiscal nº XXXXXXXX, em que é parte o sócio cotista Mateus, vem a presente peça de defesa para impugnar a penhora dos bens deste, bem como requerer a suspensão da execução fiscal até que sejam verificadas as condições de inscrição da dívida ativa e a regularidade da cobrança judicial.
+
+Argumentos:
+
+1.  A notificação do sócio cotista Mateus sobre a penhora foi realizada apenas em junho de 2025, o que é ilegal, pois não houve a devida notificação dele sobre a penhora.
+2.  A execução fiscal deve ser suspensa até que sejam verificadas as condições de inscrição da dívida ativa e a regularidade da cobrança judicial.
+
+Requer-se:
+
+1.  Que seja declarada a ilegalidade da penhora dos bens do sócio cotista Mateus.
+2.  A suspensão da execução fiscal até que sejam verificadas as condições de inscrição da dívida ativa e a regularidade da cobrança judicial.
+
+Prazo: 15 dias
+
+Assinatura do Advogado:
+
+[Seu Nome]
+
+Data: [Data]""
+
+Essa peça de defesa deve ser apresentada nos autos da própria execução fiscal, com o objetivo de defender os direitos do sócio cotista Mateus e impugnar a penhora dos seus bens.","1. SÍNTESE DO CASO: O caso trata-se da defesa de Mateus, ex-sócio cotista da sociedade empresária Panos Belos Ltda., contra a execução fiscal iniciada pelo Fisco do Estado Beta por não pagamento de ICMS devido pela sociedade entre janeiro e junho de 2024. O Fisco requeriu o redirecionamento da execução fiscal para Mateus, que possui dois automóveis penhorados.
+
+2. FUNDAMENTAÇÃO LEGAL: A execução fiscal é regulada pela Lei nº 10.498/2002 e suas alterações posteriores. O artigo 36 da Lei nº 10.498/2002 estabelece que a execução fiscal pode ser realizada contra pessoas jurídicas ou físicas responsáveis pelos débitos tributários. O artigo 57 da mesma lei permite o redirecionamento da execução fiscal para outra pessoa quando esta for responsável pelo débito tributário.
+
+3. ANÁLISE TÉCNICA: Mateus foi ex-sócio cotista da sociedade empresária Panos Belos Ltda., que é a devedora do ICMS em questão. O fato de Mateus ter se retirado da sociedade antes do período em que o débito tributário foi gerado não implica sua responsabilidade pessoal pelo débito, pois ele não era mais sócio cotista na data da inscrição da sociedade na dívida ativa. No entanto, se Mateus possuía bens que poderiam ser penhorados para cobrança do débito tributário, o Fisco poderia redirecionar a execução fiscal para ele, conforme o artigo 57 da Lei nº 10.498/2002. No entanto, Mateus não foi responsável pelo débito tributário e não possui outros bens que possam ser penhorados, apenas os dois automóveis importados.
+
+4. CONCLUSÃO: A defesa adequada para Mateus é baseada na afirmação de que ele não é responsável pelo débito tributário da sociedade empresária Panos Belos Ltda., pois já havia se retirado dela antes do período em que o débito foi gerado. Além disso, Mateus não possui outros bens que possam ser penhorados para cobrança do débito tributário. Portanto, a execução fiscal deve ser retirada de Mateus e voltar a ser realizada contra a sociedade empresária Panos Belos Ltda., devedora do ICMS em questão.","**1. SÍNTESE DO CASO:**  
+A principal questão jurídica é a responsabilização de Mateus como sócio individual, após sua retirada da sociedade empresária, por débitos tributários da empresa.
+
+---
+
+**2. FUNDAMENTAÇÃO LEGAL:**  
+- **CTN, art. 135:** Responsabilidade dos sócios pelas obrigações da empresa.  
+- **CTN, art. 135-A:** Responsabilidade limitada dos sócios em certas hipóteses.  
+- **CPC, art. 1.094:** Execução por dívida de pessoa jurídica e redirecionamento para sócios.  
+- **CPC, art. 142:** Penhora de bens.  
+- **CPC, art. 109:** Prescrição da execução.  
+
+---
+
+**3. ANÁLISE TÉCNICA:**  
+Mateus, após sua retirada em dezembro de 2.023, deixou de ser sócio da Panos Belos Ltda. conforme ato societário registrado na Junta Comercial. O art. 135 do CTN prevê a responsabilidade solidária dos sócios pelas obrigações tributárias da empresa, mas tal responsabilidade é limitada à data da retirada. Após a saída do sócio, a empresa assume integralmente seus débitos, sem que o sócio possa ser responsabilizado subsidiariamente.  
+
+O art. 135-A do CTN trata da responsabilidade limitada dos sócios, mas não se aplica a sócios já desligados. O redirecionamento da execução fiscal para Mateus, após sua retirada, viola o princípio da coisa julgada e da responsabilidade limitada societária.  
+
+Além disso, o art. 1.094 do CPC prevê que a execução fiscal pode ser redirecionada para sócios, mas tal direito do Fisco é limitado à data da retirada. Após a saída do sócio, a execução deve ser realizada contra a pessoa jurídica, não podendo ser redirecionada para o ex-sócio.  
+
+Os automóveis penhorados são bens de Mateus, mas não há relação jurídica com a dívida da empresa, pois a responsabilidade tributária da Panos Belos Ltda. é ilimitada para Mateus após sua retirada.  
+
+---
+
+**4. CONCLUSÃO:**  
+Mateus não responde solidariamente pela dívida tributária da Panos Belos Ltda. após sua retirada em dezembro de 2.023. O redirecionamento da execução fiscal é ilegal, e os bens penhorados são seus, mas não estão sujeitos ao pagamento da dívida da empresa. A execução fiscal deve ser suspensa e redirecionada para a pessoa jurídica."
+44_direito_tributario_questao_1,44_direito_tributario,"Em 29/12/2023, o Município Alfa instituiu, por lei ordinária, uma contribuição voltada a custear a instalação e a operação de câmeras de segurança para monitorar os principais logradouros públicos da área urbana do Município. Diversas entidades religiosas do Município insurgiram-se contra a cobrança alegando que, em razão de sua imunidade tributária, não deveriam pagar tal contribuição.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) A instituição de tal contribuição para custear a instalação e operação de câmeras de segurança para monitorar os principais logradouros públicos da área urbana do Município é válida? Justifique. (Valor: 0,65)', 'B) Estão corretas as entidades religiosas em sua alegação de que, em razão de sua imunidade tributária, não deveriam pagar tal contribuição? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Constitucional Tributário,Corpus: Constituição Federal de 1988,"**SÍNTESE DO CASO:** O problema jurídico central é determinar se as entidades religiosas têm direito a imunidade tributária em relação à contribuição instituída pelo Município Alfa para custear câmeras de segurança.
+
+**FUNDAMENTAÇÃO LEGAL:**
+
+*   Art. 150, VI, da Constituição Federal (CF), que estabelece a imunidade tributária dos templos religiosos;
+*   Art. 145, § 2º, CF, que define as hipóteses de isenção e imunidade tributária.
+
+**ANÁLISE TÉCNICA:**
+
+As entidades religiosas têm direito à imunidade tributária prevista no art. 150, VI, da Constituição Federal, desde que sejam utilizadas para fins de culto ou atividades religiosas. No entanto, a contribuição instituída pelo Município Alfa não está relacionada às atividades religiosas das entidades, mas sim à segurança pública.
+
+A imunidade tributária prevista no art. 150, VI, da CF é aplicável apenas em relação aos impostos e taxas que incidam sobre bens imóveis ou móveis utilizados para fins de culto ou atividades religiosas. A contribuição instituída pelo Município Alfa não se enquadra nessa hipótese, pois não é um imposto ou taxa incidente sobre bens imóveis ou móveis.
+
+Além disso, a Constituição Federal estabelece que as entidades religiosas têm direito à isenção de impostos e taxas, mas apenas em relação aos impostos e taxas que incidam sobre bens imóveis ou móveis utilizados para fins de culto ou atividades religiosas (art. 150, VI, CF).
+
+**CONCLUSÃO:**
+
+As entidades religiosas não têm direito à imunidade tributária em relação à contribuição instituída pelo Município Alfa para custear câmeras de segurança, pois a contribuição não está relacionada às atividades religiosas das entidades e não se enquadra nas hipóteses de isenção ou imunidade previstas na Constituição Federal.","1. SÍNTESE DO CASO: O problema jurídico central é se as entidades religiosas, em virtude da sua imunidade tributária, devem ou não pagar uma contribuição instituída pelo Município Alfa para custear a instalação e operação de câmeras de segurança nas principais vias públicas.
+
+2. FUNDAMENTAÇÃO LEGAL: A imunidade tributária das entidades religiosas é estabelecida no artigo 180 da Constituição Federal (CF) e no artigo 3, IV do Decreto-Lei nº 2.495/67. A lei ordinária instituindo a contribuição é regulada pelo artigo 15 da Lei Complementar nº 123/2006 (LC 123/2006).
+
+3. ANÁLISE TÉCNICA: A imunidade tributária das entidades religiosas é um direito constitucional inalienável e imprescindível, que não pode ser suspensa ou revogada por lei ordinária (artigo 180, CF). Por outro lado, a LC 123/2006 permite a instituição de contribuições para custear serviços públicos de interesse geral. No entanto, aplicando o princípio da imunidade tributária, as entidades religiosas não podem ser obrigadas a pagar tal contribuição.
+
+4. CONCLUSÃO: As entidades religiosas do Município Alfa, em virtude de sua imunidade tributária, não devem pagar a contribuição instituída pelo Município para custear a instalação e operação de câmeras de segurança nas principais vias públicas.","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+44_direito_tributario_questao_2,44_direito_tributario,"Uma lei federal ordinária do início de 2023, acompanhada de estimativa de impacto financeiro e orçamentário, concedeu benefícios tributários de Imposto sobre Produtos Industrializados (IPI) a contribuintes que não haviam declarado ou que não haviam pago devidamente o tributo referente aos anos de 2021 e 2022.
+Tais benefícios consistiram em não cobrar multa sobre os valores não declarados nem recolhidos e em conceder desconto de 20% sobre o valor do tributo que foi declarado, mas não chegou a ser recolhido. A lei também beneficiava, com a não cobrança de multa, aqueles atos praticados com dolo pelo sujeito passivo para ocultar a ocorrência dos fatos geradores.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) A concessão de desconto de 20% sobre o valor do tributo que foi declarado, mas não chegou a ser recolhido, constitui anistia? Justifique. (Valor: 0,65)', 'B) Poderia tal lei determinar a não cobrança de multa para os atos praticados com dolo pelo sujeito passivo para ocultar a ocorrência dos fatos geradores? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Tributário,Corpus: Código Tributário Nacional,"Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+44_direito_tributario_questao_3,44_direito_tributario,"José recebeu em 2025, em seu domicílio, uma notificação para pagar ao Município Alfa o Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) referente à aquisição de um imóvel, situado no território municipal, levada a registro no ano de 2018. A cobrança também aplicara uma alíquota maior sobre a transmissão em razão do valor venal do imóvel.
+O fundamento legal da cobrança indicava que lei complementar do Município Alfa, em vigor desde 1/1/2017, estabelecera o prazo decadencial para a constituição dos créditos tributários municipais em dez anos. A mesma lei complementar determinara que o ITBI nesse Município passaria a ter alíquotas progressivas em razão do valor venal do imóvel.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) José poderia ter sido notificado para pagar tal ITBI no ano de 2025? Justifique. (Valor: 0,60)', 'B) Poderia ter sido aplicada a alíquota progressiva na cobrança de tal ITBI feita a José? Justifique. (Valor: 0,65)']","[0.6000000000000001, 0.65]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Hermenêutica Jurídica Complexa,Subdomínio: Direito Tributário,Corpus: Constituição Federal de 1988 e Código Tributário Nacional,"**SÍNTESE DO CASO:** O problema jurídico central é determinar se a cobrança de ITBI pelo Município Alfa, com base em lei complementar que estabeleceu prazo decadencial e alíquotas progressivas, é válida.
+
+**FUNDAMENTAÇÃO LEGAL:**
+
+*   Art. 150, III, da Constituição Federal (CF), que trata sobre a competência tributária dos Municípios;
+*   Art. 155, § 2º, inciso I, da CF, que disciplina o ITBI e estabelece que sua alíquota será fixada pelo Município;
+*   Lei Complementar nº 116/2003 (Lei Kandir), que dispõe sobre a organização financeira dos Municípios e estabelece prazos decadenciais para a constituição de créditos tributários.
+
+**ANÁLISE TÉCNICA:**
+
+A Constituição Federal, em seu artigo 150, III, afirma que os impostos são instituídos e cobrados pela União, Estados, Distrito Federal e Municípios. O artigo 155, § 2º, inciso I, da CF, especificamente disciplina o ITBI, estabelecendo que sua alíquota será fixada pelo Município.
+
+A Lei Complementar nº 116/2003 (Lei Kandir) é aplicável para regular a organização financeira dos Municípios e estabelece prazos decadenciais para a constituição de créditos tributários. No entanto, não há menção específica sobre alíquotas progressivas no texto da Lei Complementar nº 116/2003.
+
+A lei complementar do Município Alfa, em vigor desde 1/1/2017, estabeleceu o prazo decadencial para a constituição dos créditos tributários municipais em dez anos e alíquotas progressivas em razão do valor venal do imóvel. No entanto, não há menção específica sobre a competência para instituir alíquotas progressivas no texto da Constituição Federal.
+
+**CONCLUSÃO:**
+
+A cobrança de ITBI pelo Município Alfa, com base em lei complementar que estabeleceu prazo decadencial e alíquotas progressivas, é válida.","1. SÍNTESE DO CASO: O problema jurídico central é se a cobrança do Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) pelo Município Alfa para José, que adquiriu um imóvel no município em 2018, é válida, considerando o prazo decadencial de 10 anos estabelecido pela lei complementar do Município Alfa e a aplicação de alíquotas progressivas em razão do valor venal do imóvel.
+
+2. FUNDAMENTAÇÃO LEGAL: A cobrança do ITBI pelo Município Alfa é baseada na Lei Complementar do Município Alfa (Lei nº XYZ/2017), que estabelece o prazo decadencial de 10 anos para a constituição dos créditos tributários municipais e determina que o ITBI passará a ter alíquotas progressivas em razão do valor venal do imóvel (artigos XYZ da Lei nº XYZ/2017).
+
+3. ANÁLISE TÉCNICA: De acordo com a Lei Complementar do Município Alfa, o prazo decadencial para a constituição dos créditos tributários municipais é de 10 anos (artigo XYZ da Lei nº XYZ/2017). No entanto, José adquiriu o imóvel em 2018, que é dentro do prazo decadencial estabelecido pela lei. Portanto, a cobrança do ITBI para José é válida. Além disso, a lei complementar também determina que o ITBI nesse Município passará a ter alíquotas progressivas em razão do valor venal do imóvel (artigo XYZ da Lei nº XYZ/2017). Dado que o valor venal do imóvel é maior, a cobrança também aplicou uma alíquota maior sobre a transmissão.
+
+4. CONCLUSÃO: A cobrança do Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) pelo Município Alfa para José, que adquiriu um imóvel no município em 2018, é válida, considerando o prazo decadencial de 10 anos estabelecido pela lei complementar do Município Alfa e a aplicação de alíquotas progressivas em razão do valor venal do imóvel.","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+44_direito_tributario_questao_4,44_direito_tributario,"Um Juiz de Vara Federal de Execuções Fiscais despachou petição inicial de medida cautelar fiscal contra Mário, em 10/7/2024, concedendo liminar para o bloqueio de seus bens em valor que satisfizesse a dívida. A razão da concessão da liminar se deveu ao fato de que Mário, notificado pela Fazenda Nacional para que procedesse ao recolhimento de vultoso crédito fiscal, tentou colocar seus bens em nome de terceiros como forma de esvaziar seu patrimônio capaz de responder pelo débito.
+A liminar foi cumprida no dia 12/7/2024, por meio do bloqueio dos valores presentes na conta de Mário, com a juntada aos autos do mandado de cumprimento em 15/7/2024. A citação efetiva de Mário ocorreu apenas em 16/7/2024, com a juntada aos autos do mandado de citação devidamente cumprido em 18/7/2024.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual o recurso cabível contra a concessão dessa liminar previsto na lei específica sobre medidas cautelares fiscais? Justifique. (Valor: 0,60)', 'B) A partir de quando se conta o prazo para Mário contestar o pedido liminar na medida cautelar fiscal descrita no enunciado? Justifique. (Valor: 0,65)']","[0.6000000000000001, 0.65]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Recuperação Factual Direta,Subdomínio: Direito Processual Tributário,Corpus: Lei nº 8.397/1992 (Medida Cautelar Fiscal),"Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)","1. SÍNTESE DO CASO: O problema jurídico central é se a liminar concedida pelo Juiz de Vara Federal de Execuções Fiscais para o bloqueio dos bens de Mário, notificado pela Fazenda Nacional para recolhimento de vultoso crédito fiscal, foi cumprida corretamente, mesmo com a citação efetiva acontecendo após o mandado de cumprimento.
+
+2. FUNDAMENTAÇÃO LEGAL: A liminar é estabelecida pela Lei nº 13.645/2018, que regula o Direito Processual Tributário, no artigo 179, § 1º, que dispõe sobre a medida cautelar fiscal, e no artigo 180, que trata dos requisitos para a concessão da liminar. A citação é regulada pelo Código de Processo Civil (CPC), no artigo 234, que dispõe sobre o mandado de citação.
+
+3. ANÁLISE TÉCNICA: De acordo com a Lei nº 13.645/2018, a liminar pode ser concedida quando há risco de perda ou danos irreparáveis se não for tomada imediatamente (artigo 179, § 1º). Neste caso, Mário tentou esvaziar seu patrimônio capaz de responder pelo débito fiscal, o que justifica a concessão da liminar. A liminar foi cumprida no dia 12/7/2024, por meio do bloqueio dos valores presentes na conta de Mário, com a juntada aos autos do mandado de cumprimento em 15/7/2024. A citação efetiva de Mário ocorreu apenas em 16/7/2024, com a juntada aos autos do mandado de citação devidamente cumprido em 18/7/2024. De acordo com o CPC (artigo 234), a citação é um ato necessário para que se possa julgar o processo, porém não é uma condição para a execução da medida cautelar fiscal. Portanto, mesmo com a citação efetiva após o mandado de cumprimento, a liminar foi cumprida corretamente.
+
+4. CONCLUSÃO: A liminar concedida pelo Juiz de Vara Federal de Execuções Fiscais para o bloqueio dos bens de Mário foi cumprida corretamente, mesmo com a citação efetiva acontecendo após o mandado de cumprimento.","**1. SÍNTESE DO CASO:**  
+A violação do prazo legal para a citação do interessado na Medida Cautelar Fiscal configura violação ao contraditório e ao prazo processual, ensejando a nulidade da decisão liminar.
+
+---
+
+**2. FUNDAMENTAÇÃO LEGAL:**  
+- **Art. 89, III, d**o Regimento Interno da Justiça Federal (RICF):  
+  *""A citação far-se-á por edital, se ausente o endereço, ou por intimação, se presente, com a indicação da data e da hora da audiência, e será feita no prazo de 30 (trinta) dias, contados da data da intimação ou citação, para a defesa.""*  
+- **Art. 90, I** do RICF:  
+  *""Compete ao juiz, após a intimação do interessado, para o prazo de 30 (trinta) dias, dar-lhe a oportunidade de apresentar defesa, por escrito ou por audiência.""*  
+- **Art. 13** da Lei Complementar nº 87/1998 (Disposições Constitucionais Preliminares):  
+  *""É garantido a todos os litigantes o contraditório, sem prejuízo da ampla defesa, com a possibilidade de reexaminar os autos após a decisão.""*  
+- **Art. 150, VI** da Constituição Federal/1988:  
+  *""Compete à Justiça Federal processar e julgar em primeira instância os crimes de responsabilidade dos membros do Ministério Público, do Poder Legislativo e do Poder Executivo, inclusive os praticados por servidores, e os crimes previstos em lei em favor da União, dos Estados, do Distrito Federal e dos Municípios.""*
+
+---
+
+**3. ANÁLISE TÉCNICA:**  
+A Medida Cautelar Fiscal prevista no art. 89 do RICF é uma garantia processual que visa preservar o patrimônio do credor até o julgamento do feito. A efetividade do contraditório é essencial para a legitimação processual, conforme o art. 13 da LC 87/98.  
+
+No caso, o juiz concedeu a liminar em 10/7/2024, o bloqueio foi cumprido em 12/7/2024, e a citação efetiva foi realizada em 16/7/2024, com a juntada do mandado cumprido aos autos em 18/7/2024.  
+
+A análise do prazo:  
+- A citação deve ocorrer no prazo de 30 dias a partir da intimação/citação (Art. 89, III, d do RICF).  
+- O bloqueio foi efetivado em 12/7/2024, mas a citação só foi realizada em 16/7/2024, o que configura violação do prazo legal para a efetivação do contraditório.  
+
+Consequências:  
+- A parte interessada (Mário) teve seu direito constitucional de defesa prejudicado, conforme art. 13 da LC 87/98.  
+- A decisão liminar, embora concedida, não pode ser considerada definitiva até o trânsito em julgado, mas a violação do prazo para a citação enseja a nulidade da decisão, pois a parte não teve acesso ao processo no prazo legal.  
+
+---
+
+**4. CONCLUSÃO:**  
+Sim, há violação do prazo legal para a citação de Mário, configurando nulidade processual da decisão liminar. A falta de intimação efetiva no prazo de 30 dias viola o princípio do contraditório e o prazo processual previsto no RICF, ensejando a anulação da medida cautelar."
+44_direito_penal_peca_profissional,44_direito_penal,"No dia 10/1/2024, Aluísio, entregador, foi realizar uma entrega na residência de Manoel, e, lá chegando, deparou- se com uma peça que imitava um jacaré. Pensando tratar-se do animal e acreditando estar em risco, deu golpes no suposto animal, vindo a destruir a peça de decoração avaliada em R$15.000,00 (quinze mil reais). Em razão disso, Manoel ajuizou queixa-crime em face de Aluísio, imputando-o como incurso nas penas do Art. 163 do CP (dano simples).
+Frustradas as tentativas de composição civil, e sendo recusada a transação penal pelo querelado, a instrução processual transcorreu sem intercorrências, tendo sido ouvidas as testemunhas que comprovaram a ocorrência do fato, tal como descrito. Ficou comprovado que o acusado danificou a peça de decoração pertencente a Manoel, bem como que Aluísio agiu sem as cautelas devidas na circunstância apresentada.
+O advogado de Manoel, em alegações finais orais, se manifestou deixando de formular pedido condenatório, da seguinte forma: ""Requeiro o prosseguimento do feito, com prolação de sentença"". A defesa de Aluísio e o Ministério Público, em seguida, manifestaram-se regularmente.
+A folha de antecedentes criminais de Aluísio indicava apenas uma condenação transitada em julgado, em 2023, por crime militar próprio (deserção).
+O Juiz do Juizado Especial Criminal da cidade de Flores, Estado de Campo Belo, local dos fatos, proferiu sentença condenando o acusado, nos termos da queixa. Fixou a pena-base em um mês de detenção e, diante da reincidência (condenação pelo delito de deserção), agravou a pena em mais um mês, chegando-se à pena de dois meses de detenção. Fixou o regime inicial semiaberto e deixou de substituir a pena privativa de liberdade por restritiva de direitos, em razão da reincidência.
+A sentença foi publicada e a defesa técnica foi intimada no dia 3/10/2025, uma sexta-feira, sendo os dias de segunda a sexta-feira úteis em todo o país.
+Como advogado(a) de Aluísio, redija a peça jurídica para o qual foi intimado(a), excluído o habeas corpus, considerando que a decisão não padece de vício de contradição, omissão, obscuridade ou ambiguidade, apresentando todas as teses jurídicas processuais e de direito material. A peça deverá ser datada no último dia do prazo legal de interposição. (Valor: 5,00)
+Obs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.",[''],[5.0],"Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Hermenêutica Jurídica Complexa,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Lei 9.099/1995 (Juizados Especiais),"**SÍNTESE DO CASO:** O acusado, Aluísio, foi condenado por dano simples (Art. 163 do CP) e o advogado de defesa deve interpor recurso em face da sentença proferida pelo Juiz do Juizado Especial Criminal.
+
+**FUNDAMENTAÇÃO LEGAL:**
+
+*   Art. 617 do Código de Processo Penal (CPP): ""O acusado, seu defensor ou o Ministério Público podem recorrer da sentença que lhes for desfavorável"";
+*   Art. 620 do CPP: ""O recurso deve ser interposto no prazo de 10 dias, a contar da intimação da sentença"".
+
+**ANÁLISE TÉCNICA:** A sentença condenatória foi proferida em 3/10/2025 e a defesa técnica foi intimada no mesmo dia. O prazo para interposição do recurso é de 10 dias, contados a partir da intimação da sentença. Portanto, o último dia útil para interpor o recurso seria 14/10/2025 (segunda-feira). Nesse caso, o advogado deve interpor recurso em face da sentença proferida pelo Juiz do Juizado Especial Criminal.
+
+**CONCLUSÃO:** O advogado de Aluísio deve interpor recurso em face da sentença condenatória proferida pelo Juiz do Juizado Especial Criminal, no prazo de 10 dias a contar da intimação da sentença.","1. SÍNTESE DO CASO: O caso trata-se da condenação de Aluísio, entregador, por danificar uma peça de decoração pertencente a Manoel, após o acusado ter atacado um objeto que ele acreditava ser um jacaré.
+
+2. FUNDAMENTAÇÃO LEGAL: A condenação de Aluísio se baseia no Artigo 163 do Código Penal (CP), que estabelece a pena para o crime de dano simples.
+
+3. ANÁLISE TÉCNICA: O acusado atacou um objeto, acreditando estar em risco, causando danos à peça de decoração de Manoel. A instrução processual comprovou a ocorrência do fato e a falta de cautelas devidas por Aluísio na circunstância apresentada. Além disso, a reincidência de Aluísio (condenação pelo delito de deserção) agravou a pena.
+
+4. CONCLUSÃO: A sentença condenando o acusado Aluísio é válida e não padece de vício de contradição, omissão, obscuridade ou ambiguidade. Portanto, como advogado(a) de Aluísio, a peça jurídica que será apresentada deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão e deverá ser datada no último dia do prazo legal de interposição.","**SINTESE DO CASO:**  
+O caso envolve a análise da sentença condenatória por crime de dano simples, com alegação de reincidência, que fixou pena inadequada em razão da fixação incorreta da pena-base e da inaplicação correta do conceito de reincidência.
+
+---
+
+**FUNDAMENTAÇÃO LEGAL:**  
+1. **Art. 163, caput, do Código Penal (CP):** Dano simples – reclusão de 1 a 4 meses, multa.  
+2. **Art. 72, § 1º, do CP:** Reincidência em crime comum.  
+3. **Art. 49, I, do CP:** Pena-base para dano qualificado – reclusão de 4 meses a 4 anos.  
+4. **Art. 34, I e II, do CP:** Fixação da pena-base e agravamento por reincidência.  
+5. **Art. 89, I e II, do CP:** Substituição da pena privativa de liberdade por restritiva de direitos.  
+6. **Art. 34, III, do CP:** Regime inicial semiaberto aplicável a penas de reclusão de 12 meses a 3 anos.  
+7. **Art. 49, II, do CP:** Pena-base mínima de 4 meses para dano qualificado.  
+8. **Art. 72, III, do CP:** Reincidência em crime comum próprio.  
+
+---
+
+**ANÁLISE TÉCNICA:**  
+
+1. **Pena-base:**  
+   O dano causado ao bem de valor pecuniário de R$ 15.000,00 (quinze mil reais) configura o crime de dano *qualificado* (Art. 163, § 1º, II, do CP), pois o valor ultrapassa R$ 4.000,00. Assim, a pena-base deve ser fixada em 4 meses (Art. 49, I, do CP). O juiz fixou erroneamente a pena-base em 1 mês, o que viola o disposto no art. 49, I, do CP, pois a pena-base mínima para o crime de dano qualificado é de 4 meses.  
+
+2. **Reincidência:**  
+   O crime anterior cometido por Aluísio foi a deserção, crime militar próprio (Art. 330 do CP), que não se configura como crime comum. O art. 72, § 1º, do CP, prevê a reincidência em crime comum. Como o crime anterior não foi crime comum, não há reincidência penal.  
+
+3. **Fixação da pena:**  
+   Diante da ausência de reincidência penal, o juiz deveria ter fixado a pena-base de 4 meses, sem agravamento. O agravamento da pena para 2 meses, em virtude da suposta reincidência, é nula, pois não há previsão legal para agravamento em caso de crime militar próprio.  
+
+4. **Regime inicial:**  
+   O regime semiaberto é aplicável a penas de reclusão de 12 meses a 3 anos (Art. 34, I, do CP). A pena fixada pelo juiz (2 meses) não atinge o mínimo de 12 meses para o regime semiaberto, devendo ser aplicado o regime inicial fechado.  
+
+5. **Substituição da pena:**  
+   O art. 89, I e II, do CP, prevê a substituição da pena privativa de liberdade por restritiva de direitos para crimes culposos ou dolosos cometidos mediante fraude ou violência contra o patrimônio, desde que a pena não exceda 4 anos. O crime de dano qualificado previsto no Art. 163, § 1º, II, do CP, é crime dolosamente qualificado, e a pena-base mínima é de 4 meses, não havendo previsão de substituição penal.  
+
+---
+
+**CONCLUSÃO:**  
+
+Diante do exposto, a sentença condenatória apresenta vícios na fixação da pena-base, na aplicação incorreta do conceito de reincidência, no regime inicial fixado e na falta de substituição penal.  
+
+**Pretensão:**  
+Requer-se a reforma da sentença, condenando Aluísio ao pagamento de multa no valor de R$ 15.000,00 (quinze mil reais), substituindo a pena privativa de liberdade por restritiva de direitos, e fixando o regime inicial fechado, conforme previsto no Art. 89, I e II, do CP.  
+
+---
+
+**PEÇA JURÍDICA:**  
+
+**AÇÃO PENAL – IL 001/2024 – JUIZADO ESPECIAL CRIMINAL – FLORES/DF**  
+
+**INTIMAÇÃO:**  
+Sr. Juiz,  
+
+Intimei-me no dia 3/10/2025, sexta-feira, conforme o art. 170, IV, do Código de Processo Penal, para apresentar defesa escrita.  
+
+**RECURSO PENAL – RECURSO DE APELAÇÃO – IL 001/2024**  
+
+**EXCEÇÃO:**  
+Aluísio, querelado no feito, apresenta recurso de apelação contra sentença condenatória proferida em data de 30/09/2025, no Juizado Especial Criminal desta comarca, por força do art. 896, III, do Código de Processo Penal.  
+
+**FUNDAMENTOS DE DIREITO:**  
+
+1. **Pena-base:**  
+   O crime de dano qualificado (Art. 163, § 1º, II, do CP), configurado pela pecuniária de R$ 15.000,00, deve ter pena-base mínima de 4 meses (Art. 49, I, do CP). O juiz fixou indevidamente a pena-base em 1 mês, violando o disposto no art. 49, I, do CP.  
+
+2. **Reincidência:**  
+   O crime anterior (deserção) é crime militar próprio (Art. 330 do CP), não configurando reincidência penal (Art. 72, § 1º, do CP). O agravamento da pena por reincidência é nulo.  
+
+3. **Fixação da pena:**  
+   A pena-base deve ser fixada em 4 meses, sem agravamento. O juiz fixou pena de 2 meses, o que configura erro material na fixação da pena.  
+
+4. **Regime inicial:**  
+   O regime semiaberto é aplicável a penas de reclusão de 12 meses a 3 anos (Art. 34, I, do CP). A pena de 2 meses não atinge o mínimo de 12 meses, devendo ser aplicado o regime fechado.  
+
+5. **Substituição da pena:**  
+   O crime de dano qualificado não enseja substituição penal (Art. 89, I e II, do CP), pois trata-se de crime dolosamente qualificado.  
+
+**PEDIDO:**  
+Reformar a sentença, condenando Aluísio ao pagamento de multa no valor de R$ 15.000,00, substituindo a pena privativa de liberdade por restritiva de direitos, e fixando o regime inicial fechado.  
+
+**PROVA:**  
+Apresentar-se-ei no dia útil subsequente para depósito da multa e cumprimento da pena.  
+
+**ADJUDICAÇÃO:**  
+É o caso.  
+
+**ALEGAÇÕES:**  
+Aluísio, querelado, alega que a sentença condenatória é nula em razão dos vícios supra enumerados.  
+
+**INTIMAÇÃO:**  
+Intime-se para decisão.  
+
+**DATA:** 03/10/2025  
+
+**HORÁRIO:** 17:00 HORAS  
+
+**LOCAL:** Secretaria do Juizado Especial Criminal  
+
+---
+
+**RIGOROSIDADE TERMINOLÓGICA:**  
+A presente defesa fundamenta-se na análise dos vícios na sentença condenatória, com ênfase na fixação incorreta da pena-base, na inaplicação do conceito de reincidência penal e na inadequação do regime inicial. O recurso busca a reforma da sentença, conforme o disposto nos arts. 49, 72, 89 e 34 do CP."
+44_direito_penal_questao_1,44_direito_penal,"Carlos, com a intenção de obter vantagem indevida em detrimento da União, logrou efetuar o saque do seu Fundo de Garantia do Tempo de Serviço (FGTS) munido de laudo médico, atestando ser portador do vírus HIV, supostamente expedido por hospital público, documento materialmente falso e usado exclusivamente para esse fim.
+O Ministério Público Federal, então, ofereceu Acordo de Não Persecução Penal (ANPP) a Carlos, propondo, como condições, a reparação do dano e a prestação de serviços à comunidade, pelo período equivalente à pena mínima cominada aos delitos de uso de documento público falso em concurso material com o delito de estelionato majorado (Art. 297 c/c o Art. 304 e Art. 171, § 3º, na forma do Art. 69, todos do Código Penal).
+Como advogado(a) de Carlos, assistindo-o nas tratativas do Acordo de Não Persecução Penal, responda às questões a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual a tese de Direito Penal deve ser sustentada em relação ao enquadramento típico realizado pelo Ministério Público Federal? Fundamente. (Valor: 0,65)', 'B) As condições da proposta estão em conformidade com a legislação processual penal de regência? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal,"**SÍNTESE DO CASO**: O problema jurídico central é determinar se as condições impostas pelo Ministério Público Federal no Acordo de Não Persecução Penal (ANPP) a Carlos são legais e adequadas às circunstâncias do caso.
+
+**FUNDAMENTAÇÃO LEGAL**: Para resolver essa questão, devemos considerar os seguintes dispositivos legais:
+
+- Art. 171, § 3º, do Código Penal: define o crime de estelionato majorado;
+- Art. 297 do Código Penal: define o crime de uso de documento público falso;
+- Art. 304 do Código Penal: trata da pena para crimes contra a fé pública;
+- Art. 69 do Código Penal: regula as penas alternativas, incluindo a prestação de serviços à comunidade.
+
+**ANÁLISE TÉCNICA**: O Acordo de Não Persecução Penal (ANPP) é uma convenção entre o Ministério Público e o acusado, que pode ser aceito ou rejeitado pelo juiz. Para ser válido, deve atender aos requisitos legais, como a existência de crime punível na forma do ANPP e a observância das condições impostas.
+
+Nesse caso, Carlos está sendo acusado de uso de documento público falso (Art. 297 c/c Art. 304) e estelionato majorado (Art. 171, § 3º), o que configura um crime contra a fé pública e um delito de dano causado à União.
+
+O ANPP proposto pelo Ministério Público Federal impõe como condições a reparação do dano e a prestação de serviços à comunidade pelo período equivalente à pena mínima cominada aos delitos. A prestação de serviços à comunidade é uma das penas alternativas previstas no Art. 43 da Lei nº 7.210/1984 (Lei dos Crimes contra a Saúde Pública), que pode ser aplicada em substituição à pena privativa de liberdade, desde que o juiz considere adequado e suficiente para a reparação do dano.
+
+No entanto, é importante verificar se as condições impostas pelo ANPP atendem aos requisitos legais. A reparação do dano é uma condição necessária, pois Carlos causou dano à União ao obter vantagem indevida com o uso de documento público falso. A prestação de serviços à comunidade também é adequada, considerando a natureza dos crimes cometidos.
+
+**CONCLUSÃO**: As condições impostas pelo Ministério Público Federal no Acordo de Não Persecução Penal (ANPP) a Carlos são legais e adequadas às circunstâncias do caso. A reparação do dano e a prestação de serviços à comunidade atendem aos requisitos legais para o ANPP, considerando a natureza dos crimes cometidos por Carlos.","1. SÍNTESE DO CASO: O problema jurídico central é se Carlos, que utilizou um documento falso para obter vantagem indevida em detrimento da União, deve aceitar o Acordo de Não Persecução Penal (ANPP) proposto pelo Ministério Público Federal.
+
+2. FUNDAMENTAÇÃO LEGAL: O caso é analisado sob a luz do Código Penal Brasileiro, especificamente dos artigos 297 (uso de documento público falso), 304 (estelionato) e 171, § 3º (pena mínima cominada para crimes comuns), na forma do artigo 69 (ANPP).
+
+3. ANÁLISE TÉCNICA: Carlos foi acusado de utilizar um documento falso para obter vantagem indevida, o que constitui o crime de uso de documento público falso (Art. 297 do Código Penal). Além disso, a utilização deste documento falsificado pode ser considerada estelionato (Art. 304), uma vez que foi usado para obter dinheiro da União. A pena mínima cominada para esses crimes é prevista no artigo 171, § 3º do Código Penal. No entanto, o Ministério Público Federal ofereceu um ANPP a Carlos, propondo que ele reparasse o dano e prestasse serviços à comunidade por um período equivalente à pena mínima cominada. O ANPP é uma medida alternativa à punição prevista no artigo 69 do Código Penal, que pode ser concedida quando a vítima concorda e o delito não tenha causado prejuízo grave ou irreparável.
+
+4. CONCLUSÃO: Como advogado(a) de Carlos, recomendo aceitar o ANPP proposto pelo Ministério Público Federal, uma vez que ele permite a reparação do dano e a prestação de serviços à comunidade, além de evitar a punição prevista no Código Penal. Porém, é importante notar que o ANPP só pode ser concedido quando a vítima concorda, portanto, é necessário verificar se a União concorda com as condições propostas.","**1. SÍNTESE DO CASO:**  
+Carlos responde por concurso material de falsificação de documento público (Art. 304 do CP) e estelionato majorado (Art. 297 do CP), com a finalidade de obter vantagem indevida no FGTS, mediante o uso de documento falso. O Ministério Público propõe Acordo de Não Persecução Penal (ANPP) com condições de reparação do dano e prestação de serviços à comunidade, equivalentes à pena mínima cominada.
+
+---
+
+**2. FUNDAMENTAÇÃO LEGAL:**  
+- **Art. 304, § 1º do Código Penal (CP):** Uso de documento público falso, prevendo pena de detenção de 1 a 4 anos.  
+- **Art. 297 do CP:** Estelionato majorado, prevendo pena de reclusão de 1 a 4 anos.  
+- **Art. 69, III do CP:** Concurso material, aplicável quando há núcleo típico distinto entre os crimes.  
+- **Art. 8º da Lei 9.983/1990 (MPF):** Disposições sobre o Acordo de Não Persecução Penal (ANPP).  
+- **Art. 41 da Lei 9.983/1990:** Condições para o ANPP, exigindo reparação do dano e prestação de serviços à comunidade.  
+- **Art. 330 do Código de Processo Penal (CPP):** Princípio da insignificância, que pode excluir a punibilidade se o resultado for mínimo.  
+
+---
+
+**3. ANÁLISE TÉCNICA:**  
+a) **Concursos Penais:**  
+Carlos praticou dois delitos distintos:  
+- Uso de documento público falso (Art. 304 do CP), com pena de detenção de 1 a 4 anos.  
+- Estelionato majorado (Art. 297 do CP), com pena de reclusão de 1 a 4 anos.  
+A prática ocorreu em concurso material, pois há núcleo típico distinto: o primeiro delito consiste na falsificação de documento público (laudo médico), enquanto o segundo delito é a fraude no FGTS, configurando núcleo típico autônomo (Art. 69, III do CP). A pena mínima cominada será a soma das penas mínimas: 1 ano (Art. 304) + 1 ano (Art. 297) = 2 anos de reclusão/detenção.  
+
+b) **ANPP:**  
+O Ministério Público propõe condições adequadas ao ANPP, conforme previsto no Art. 41 da Lei 9.983/1990, que exige:  
+- Reparação do dano (Art. 41, I), no caso, o restitutio in integrum do valor fraudulento do FGTS.  
+- Prestação de serviços à comunidade (Art. 41, II), equivalente à pena mínima cominada (2 anos).  
+
+c) **Insignificância:**  
+O laudo médico falso e o saque fraudulento no FGTS não ensejam aplicação do princípio da insignificância (Art. 330 do CPP), pois a União é vítima, o valor fraudulento é indeterminado (mas presumivelmente significativo), e há intenção de obter vantagem indevida.  
+
+---
+
+**4. CONCLUSÃO:**  
+O Acordo de Não Persecução Penal proposto pelo Ministério Público é adequado, pois as condições (reparação do dano e prestação de serviços à comunidade) atendem aos requisitos legais do Art. 41 da Lei 9.983/1990. Como advogado de Carlos, aceitarei o ANPP, desde que Carlos cumpra integralmente as obrigações pactuadas, especialmente a prestação de serviços equivalente à pena mínima cominada (2 anos), para garantir a extinção da punibilidade."
+44_direito_penal_questao_2,44_direito_penal,"Manoela, um dia antes de completar 18 anos, envolveu-se em uma briga na escola, tendo atingido sua adversária na cabeça, com uma cadeira. O golpe foi tão severo que Alessandra, a vítima, foi levada ao hospital, inconsciente. Após um mês de internação, quando Manoela já tinha 18 anos, Alessandra faleceu, em decorrência da ação de Manoela.
+Por tais fatos, o Ministério Público denunciou Manoela perante o 1º Tribunal do Júri da Comarca da Capital, local da ocorrência, pelo homicídio doloso de Alessandra. Recebida a denúncia e expedido o mandado de citação, o Oficial de Justiça se dirigiu à residência de Manoela, situada na comarca onde ocorreram os fatos, e foi atendido pela mãe da citanda, que esclareceu que sua filha havia saído para trabalhar e retornava mais tarde. O Oficial de Justiça certificou essa informação e devolveu o mandado, o que motivou o Juízo a ordenar a citação por edital, decretando a suspensão do processo e do prazo prescricional.
+Como advogado(a) de Manoela, responda às questões a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) A fim de afastar, completamente, a responsabilidade penal de Manoela pelos fatos, qual a tese correta de Direito Penal deve ser sustentada em sua defesa? Justifique. (Valor: 0,65)', 'B) A citação por edital observou as normas do Direito Processual Penal? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal,"**SÍNTESE DO CASO:** O problema jurídico central é determinar se Manoela pode ser julgada pelo crime de homicídio doloso, considerando que a denúncia foi recebida após ela completar 18 anos.
+
+**FUNDAMENTAÇÃO LEGAL:**
+
+*   Art. 5º, inciso LVII da Constituição Federal: ""não haverá prisão por dívida"";
+*   Art. 106 do Código de Processo Penal (CPP): ""a citação é a notificação ao réu para que compareça em juízo, na forma e no prazo estabelecidos pela lei processual penal"";
+*   Art. 122 do CPP: ""é nulo o processo criminal que for instaurado contra pessoa menor de dezoito anos sem a intervenção do representante legal"".
+
+**ANÁLISE TÉCNICA:** A denúncia foi recebida após Manoela completar 18 anos, mas é importante considerar se ela estava ou não capaz de ser processada criminalmente antes disso. De acordo com o artigo 122 do CPP, um processo criminal instaurado contra uma pessoa menor de 18 anos sem a intervenção do representante legal é nulo. Nesse caso, Manoela envolveu-se em uma briga e atingiu sua adversária na cabeça com uma cadeira quando ainda era menor de idade. Portanto, o processo criminal instaurado contra ela após completar 18 anos não pode ser válido, pois a ação penal deve ter sido iniciada antes que ela alcançasse a maioridade.
+
+**CONCLUSÃO:** Manoela não pode ser julgada pelo crime de homicídio doloso, pois o processo criminal foi instaurado após ela completar 18 anos e não havia uma ação penal em andamento contra ela quando era menor.","1. SÍNTESE DO CASO: O caso trata-se da denúncia por homicídio doloso contra Manoela, que atingiu Alessandra com uma cadeira na escola, causando sua morte após um mês de internação no hospital.
+
+2. FUNDAMENTAÇÃO LEGAL: O artigo 145 da Lei nº 13.467/2017 (Código Penal) define o homicídio doloso como a morte de uma pessoa causada por outra com intenção de ferir ou matá-la. O artigo 158 da mesma lei estabelece que, quando o réu não se encontra no local onde ocorreu o crime, pode ser citarado por edital.
+
+3. ANÁLISE TÉCNICA: A ação de Manoela contra Alessandra constitui homicídio doloso, pois foi com intenção de ferir ou matá-la que ela atingiu Alessandra com uma cadeira. Inicialmente, o Oficial de Justiça tentou citar Manoela por mandado de citação, mas devido a sua ausência na residência, foi emitido um edital para sua citação. O Juízo ordenou a suspensão do processo e do prazo prescricional, pois o Oficial de Justiça certificou que Manoela estava ausente da residência trabalhando.
+
+4. CONCLUSÃO: Dado que a ação de Manoela constitui homicídio doloso e ela foi citarada por edital, o processo contra ela continua suspenso até sua presença no tribunal.","**1. SÍNTESE DO CASO:**  
+A questão central é a competência judicial para julgar o crime de homicídio doloso cometido por adolescente em idade vulnerável, após a mudança de sua capacidade penal, e a validade da citação por edital.
+
+---
+
+**2. FUNDAMENTAÇÃO LEGAL:**  
+- **Art. 129, I do Código Penal (CP):** Competência do juiz do Tribunal do Júri para julgar crimes dolosos contra a vida cometidos por maior de 18 anos.  
+- **Art. 24 do Código de Processo Penal (CPP):** Competência absoluta do juiz da comarca onde ocorreu o crime.  
+- **Art. 109 da Constituição Federal:** Inafastabilidade da jurisdição do juiz.  
+- **Estatuto da Criança e do Adolescente (ECA), art. 91:** Competência dos Juizados Especiais para julgar crimes cometidos por menores de 18 anos, exceto crimes de iniciativa pública.  
+- **CPP, art. 130:** Citação por edital em caso de impossibilidade de localização pessoal.  
+- **CPP, art. 24, § 1º:** Suspensão do prazo processual em caso de impossibilidade de citação.
+
+---
+
+**3. ANÁLISE TÉCNICA:**  
+O crime foi praticado por Manoela, então com 17 anos, enquadrado no crime de homicídio doloso (Art. 228 do CP). O art. 129, I do CP prevê que crimes dolosos contra a vida são julgados pelo Tribunal do Júri, desde que cometidos por maior de 18 anos no momento da infração penal. Como o crime ocorreu antes de Manoela completar 18 anos, a competência é absoluta da comarca onde ocorreu o delito (Art. 24 do CPP).  
+
+Após o crime, Manoela completou 18 anos, mas o art. 129 do CP não altera a competência por força de mudança de idade, pois o crime foi consumado antes da maioridade. O ECA (art. 91) prevê a competência dos Juizados Especiais para menores, mas o homicídio doloso é crime de iniciativa pública, sujeito ao Tribunal do Júri, conforme o art. 129, I do CP.  
+
+Quanto à citação, o art. 130 do CPP permite a citação por edital quando o oficial de justiça prova a impossibilidade de localização pessoal. O Juiz decretou a suspensão do prazo prescricional (Art. 24, § 1º do CPP), garantindo a defesa de Manoela, conforme o princípio da ampla defesa (Art. 5º, LV da CF).
+
+---
+
+**4. CONCLUSÃO:**  
+O juíz está correto em manter o processo no Tribunal do Júri da Comarca da Capital, pois o crime foi cometido antes da maioridade de Manoela. A citação por edital é válida, e o prazo prescricional foi devido suspenso. O Ministério Público deve prosseguir com a denúciação, considerando o contexto de reincidência e o período de proteção até os 18 anos de idade."
+44_direito_penal_questao_3,44_direito_penal,"Karina e Daniel, casados, celebraram um contrato de locação residencial com César, ajustando o direito de retenção de benfeitorias voluptuárias. Ao término da locação, César, locador, recusou-se a pagar pela banheira de hidromassagem instalada pelos locatários Karina e Daniel. Por isso, a banheira foi retirada. Indignado, César ajuizou queixa-crime em desfavor de Karina, pelo tipo penal de exercício arbitrário das próprias razões. Deixou de oferecer a queixa em desfavor de Daniel, pois eles eram colegas de time de futebol. Como advogado(a) de Karina, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual a tese de Direito Processual cabível para garantir a extinção da punibilidade de Karina? Fundamente. (Valor: 0,65)', 'B) Qual a tese correta de Direito Penal em face da imputação realizada? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal,"**SÍNTESE DO CASO:** O problema jurídico central é determinar se Karina cometeu exercício arbitrário das próprias razões ao retirar a banheira de hidromassagem instalada na residência locada.
+
+**FUNDAMENTAÇÃO LEGAL:**
+
+*   Art. 346 do Código Penal (CP): ""Exercer, no que concerne às suas próprias razões, os direitos de que dispõe a lei, ainda que com violência ou grave ameaça, não constitui exercício arbitrário das próprias razões.""
+*   Art. 347 do CP: ""Exercer, no que concerne às suas próprias razões, os direitos de que dispõe a lei, sem violência ou grave ameaça, mas com abuso de poder, não constitui exercício arbitrário das próprias razões.""
+*   Art. 348 do CP: ""Exercer, no que concerne às suas próprias razões, os direitos de que dispõe a lei, sem violência ou grave ameaça e sem abuso de poder, mas com desrespeito à forma prescrita em lei para o seu exercício, constitui exercício arbitrário das próprias razões.""
+
+**ANÁLISE TÉCNICA:**
+
+*   A banheira de hidromassagem foi instalada pelos locatários Karina e Daniel na residência locada com a anuência do locador César.
+*   O contrato de locação residencial celebrado entre as partes previa o direito de retenção de benfeitorias voluptuárias, ou seja, o direito dos locatários de serem ressarcidos pelas despesas realizadas para a melhoria da propriedade.
+*   Ao término da locação, César recusou-se a pagar pela banheira de hidromassagem instalada pelos locatários, o que configuraria um abuso de poder por parte do locador.
+*   A retirada da banheira de hidromassagem pelo locatário Karina não constitui exercício arbitrário das próprias razões, pois a mesma foi realizada com base no direito de retenção de benfeitorias voluptuárias previsto no contrato de locação.
+
+**CONCLUSÃO:**
+
+*   A retirada da banheira de hidromassagem pelo locatário Karina não constitui exercício arbitrário das próprias razões, pois a mesma foi realizada com base no direito de retenção de benfeitorias voluptuárias previsto no contrato de locação.","1. SÍNTESE DO CASO: O problema jurídico central é se a retirada da banheira de hidromassagem instalada pelos locatários Karina e Daniel, após o término do contrato de locação residencial com o locador César, constitui exercício arbitrário das próprias razões, conforme denunciado em queixa-crime.
+
+2. FUNDAMENTAÇÃO LEGAL: A norma aplicável é o artigo 146 do Código Penal Brasileiro (CPB), que define o tipo penal de exercício arbitrário das próprias razões, conforme se lê: ""Art. 146 - É punido com prisão de um a três anos o que, sem justa causa, privar ou prejudicar alguém em qualquer forma.""
+
+3. ANÁLISE TÉCNICA: A retirada da banheira de hidromassagem pela parte dos locatários Karina e Daniel, após o término do contrato de locação residencial com o locador César, pode ser considerada exercício arbitrário das próprias razões se não houver justa causa para tal ação. Neste caso, é necessário analisar se o locador César recusou-se a pagar pela banheira de hidromassagem instalada pelos locatários, conforme afirmado no enunciado. Se isto for verdadeiro, poderia ser considerado privação ou prejudício sem justa causa, o que constitui o tipo penal de exercício arbitrário das próprias razões (art. 146 do CPB).
+
+4. CONCLUSÃO: A retirada da banheira de hidromassagem pela parte dos locatários Karina e Daniel pode constituir exercício arbitrário das próprias razões, caso o locador César recusou-se a pagar pela mesma. É necessário analisar se houve privação ou prejudício sem justa causa para tal conclusão.","**1. SÍNTESE DO CASO:**  
+O caso versa sobre a responsabilidade penal de Karina em relação ao crime de **exercício arbitrário das próprias razões** (Art. 200 do CP), além da análise da **discriminação no processo penal** (Art. 3 do CP) por ter deixado de incluir Daniel, colega de time, no ajuizamento da queixa-crime.
+
+---
+
+**2. FUNDAMENTAÇÃO LEGAL:**  
+- **Art. 200 do Código Penal (CP):** Define o crime de *exercício arbitrário das próprias razões*, configurado quando alguém, na qualidade de credor ou de quem tem direito sobre coisa alheia móvel, exerce esse direito de forma arbitrária, sem justo título ou sem observância da ordem legal.  
+- **Art. 3 do CP:** Proíbe a discriminação no processo penal, vedando tratar alguém de forma diferente por motivo algum.  
+- **Art. 15 do CP:** A ação penal em relação ao crime de exercício arbitrário das próprias razões é pública inafastável.  
+- **Art. 289 do Código de Processo Penal (CPP):** A ação penal é pública inafastável, cabendo ao Ministério Público promover a ação independentemente da denúncia.
+
+---
+
+**3. ANÁLISE TÉCNICA:**  
+O crime de *exercício arbitrário das próprias razões* (Art. 200 do CP) é configurado pela conduta de César, o locador, que rejeitou a benfeitoria realizada pelos locatários (Karina e Daniel) sem justificar ou fundamentar sua decisão, violando o princípio da boa-fé no contrato de locação.  
+
+Karina, como coautora do ilícito, deve ser responsabilizada penalmente, pois participou efetivamente da conduta descrita no art. 200 do CP.  
+
+Quanto à exclusão de Daniel, há violação ao **Art. 3 do CP**, que assegura a igualdade processual. A conduta de César em deixar de incluir Daniel na queixa-crime por ser colega de time configura crime de discriminação no processo penal. Nesse caso, Daniel deve ser considerado coautor ou partícipe do crime, pois ambos agiram de forma idêntica em relação à benfeitoria realizada.  
+
+---
+
+**4. CONCLUSÃO:**  
+Karina é autora do crime de *exercício arbitrário das próprias razões* (Art. 200 do CP), e Daniel deve ser incluído como coautor ou partícipe do ilícito, pois ambos praticaram a conduta descrita. A exclusão de Daniel viola o princípio da igualdade processual (Art. 3 do CP), ensejando a inclusão de sua responsabilidade penal."
+44_direito_penal_questao_4,44_direito_penal,"Com intenção de subtrair o conteúdo do cofre da agência bancária do Banco Beta, homens armados sequestraram e fizeram refém o filho de Vitor, gerente da referida agência bancária, e dele exigiram a abertura do cofre e o acesso a todo o seu conteúdo. Premido pelo sequestro de seu filho, Vitor atendeu às exigências, permitindo que os sequestradores, fortemente armados, ingressassem na agência e realizassem a subtração dos valores.
+Instaurado inquérito policial, a autoridade policial concluiu pela responsabilidade penal de Vitor como partícipe da ação criminosa, pois localizou um vídeo que comprovaria prévio ajuste entre Vitor e os demais coautores, sugerindo ter havido simulação do sequestro.
+Essa mídia foi determinante no indiciamento e na denúncia de Vitor, que constituiu você como advogado(a) e lhe informou que o vídeo era uma montagem, pois não conhecia nenhum dos envolvidos no sequestro e não teve qualquer participação voluntária nos fatos.
+Você, na qualidade de advogado(a) de defesa de Vitor, responda às questões a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual a tese adequada de Direito Penal a ser sustentada em favor de Vitor, a fim de afastar a sua responsabilidade penal pelo fato? Fundamente. (Valor: 0,65)', 'B) Identifique a medida processual adequada a ser manejada pela defesa de Vitor para questionar a idoneidade do vídeo, com o respectivo embasamento legal. Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal,"**SÍNTESE DO CASO:** O problema jurídico central é determinar se Vitor, gerente da agência bancária, pode ser considerado partícipe de um crime de subtração de valores, diante de uma investigação que aponta para a existência de um vídeo que sugere prévio ajuste entre ele e os demais coautores.
+
+**FUNDAMENTAÇÃO LEGAL:** A Constituição Federal de 1988 (CF/88) é o marco legal principal. O Código Penal Brasileiro (CP), em especial, artigos 29 (concorrência de crimes), 30 (participação em crime), e 171 (estelionato), são relevantes para a análise.
+
+**ANÁLISE TÉCNICA:** Para que Vitor seja considerado partícipe do crime, é necessário comprovar que ele tenha agido voluntariamente e com conhecimento da ilicitude. A existência de um vídeo sugerindo prévio ajuste entre Vitor e os demais coautores pode ser interpretada como indício de participação, mas não é suficiente por si só para concluir a responsabilidade penal de Vitor.
+
+A análise do vídeo como ""montagem"" pela defesa de Vitor introduz uma questão crucial: se o vídeo foi manipulado, sua autenticidade e valor probatório são questionados. Nesse contexto, a autoridade policial e o Ministério Público precisam garantir que as provas apresentadas sejam legítimas e não tenham sido alteradas ou falsificadas.
+
+O artigo 29 do Código Penal estabelece que ""A pena é aumentada de um terço até a metade se o crime foi cometido por mais de uma pessoa, quer em concurso, quer em associação"". No entanto, para aplicar essa regra, é necessário comprovar a participação efetiva e voluntária de cada indivíduo no crime.
+
+O artigo 30 do Código Penal define a participação em crime: ""Participa da infração penal aquele que, concorrendo para o resultado, não o executa por si"". A participação pode ser classificada como instigação (incitando alguém a cometer o crime), coautoria (ajudando na execução do crime) ou omissão (não impedindo a prática do crime).
+
+A defesa de Vitor sustenta que ele não teve participação voluntária nos fatos, e se o vídeo for considerado uma montagem, isso reforça sua inocência. No entanto, é crucial investigar se houve alguma forma de cooperação ou cumplicidade entre Vitor e os demais envolvidos que possa ser caracterizada como participação no crime.
+
+**CONCLUSÃO:** Diante da análise realizada, a responsabilidade penal de Vitor depende da autenticidade das provas apresentadas. Se o vídeo for considerado uma montagem, não há evidências suficientes para concluir sua participação voluntária e consciente no crime. É necessário que as autoridades investigativas e judiciárias garantam a veracidade das provas e apliquem rigorosamente as regras do Código Penal para determinar a responsabilidade penal de Vitor.","1. SÍNTESE DO CASO: O problema jurídico central é a responsabilidade penal de Vitor, o gerente da agência bancária, por participar da ação criminosa de sequestro e roubo, baseado no vídeo que comprovaria prévio ajuste entre ele e os coautores.
+
+2. FUNDAMENTAÇÃO LEGAL: A responsabilidade penal de Vitor pode ser analisada sob a luz da Lei nº 12.853/2013, que regula o Código Penal Brasileiro, e do Código de Processo Penal (Lei nº 5.878/1974).
+
+3. ANÁLISE TÉCNICA: De acordo com o artigo 26 do Código Penal Brasileiro, a participação voluntária em uma ação criminosa é constituída quando alguém, por qualquer meio, contribuir diretamente ou indiretamente para a execução da mesma. No entanto, o artigo 27 do Código Penal Brasileiro estabelece que não há participação voluntária se a pessoa for coercionada a agir de forma contrária à sua vontade.
+
+No caso em questão, Vitor atendeu às exigências dos sequestradores para abrir o cofre e permitir que eles realizassem a subtração dos valores, após ser sequestrado seu filho. Contudo, de acordo com as informações fornecidas, Vitor afirmou não ter qualquer participação voluntária nos fatos, e informou que o vídeo comprobatório da autoridade policial era uma montagem.
+
+Se o vídeo for realmente uma montagem, isso poderia indicar a ausência de prévio ajuste entre Vitor e os coautores, o que poderia sugerir que ele foi coercionado a agir de forma contrária à sua vontade. Nesse caso, Vitor não teria participação voluntária na execução da ação criminosa, e portanto, não seria responsável penalmente.
+
+4. CONCLUSÃO: De acordo com o raciocínio jurídico apresentado, se o vídeo comprobatório for realmente uma montagem, Vitor não teria participação voluntária na execução da ação criminosa de sequestro e roubo, e portanto, não seria responsável penalmente.","### 1. SÍNTESE DO CASO  
+O problema jurídico central é alegar a falta de dolo e consentimento voluntário de Vitor, configurando crime de peculado qualificado, mas com a defesa de que a conduta foi imposta sob coação, anulando o consentimento e a intenção de participar do crime.
+
+---
+
+### 2. FUNDAMENTAÇÃO LEGAL  
+- **Art. 15, IV do Código Penal (CP)**: Participação do partícipe.  
+- **Art. 17 do CP**: Crime doloso ou culposo.  
+- **Art. 16 do CP**: Consentimento como crime.  
+- **Art. 29 do CP**: Crime culposo.  
+- **Art. 157 do CP**: Peculado qualificado (subtração de valores de instituição financeira).  
+- **Art. 33 do CP**: Crime doloso.  
+- **Art. 148-A do Código de Processo Penal (CPP)**: Indiciamento por meio de provas ilícitas.  
+
+---
+
+### 3. ANÁLISE TÉCNICA  
+O crime de peculado qualificado (Art. 157 do CP) é configurado pela subtração de bens de uma instituição financeira mediante violência ou grave ameaça. No caso, os sequestradores ameaçaram Vitor, gerando coação, e ele atendeu às exigências para evitar maiores danos à sua vida familiar.  
+
+A defesa deve alegar:  
+- **Falta de dolo**: Vitor não teve intenção de participar do crime, pois sua conduta foi imposta pela violência (Art. 17 do CP).  
+- **Anulação do consentimento**: O consentimento é anulável quando obtido sob ameaça ou violência (Art. 16 do CP). Neste caso, Vitor foi submetido a grave ameaça (sequestro do filho), invalidando o consentimento.  
+- **Ilegalidade da prova**: O vídeo apresentado como comprovação de prévio ajuste é uma montagem, configurando prova ilícita. A utilização de provas ilícitas para indiciar e denunciar é inconstitucional (Art. 5º, LVIII da CF e Art. 148-A do CPP).  
+
+---
+
+### 4. CONCLUSÃO  
+O advogado deve impugnar a responsabilidade penal de Vitor, alegando:  
+1. **Falta de dolo**: Vitor não participou do crime com intenção de subtrair o conteúdo do cofre, pois sua conduta foi imposta pela coação.  
+2. **Anulação do consentimento**: O consentimento obtido sob ameaça grave é anulável, conforme o Art. 16 do CP.  
+3. **Ilegalidade da prova**: O vídeo é uma prova ilícita, obtido mediante fraude, violando o princípio da legalidade e o contraditório.  
+
+Portanto, deve-se pleitear a desclassificação da responsabilidade penal ou a exclusão da prova ilícita, alegando a inocência de Vitor."
