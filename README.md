@@ -27,7 +27,7 @@ Repositório individual de **Victor Mascarenhas** para a primeira atividade aval
 
 A documentação completa do projeto e os notebooks de execução estão disponíveis na raiz do repositório. Os resultados consolidados podem ser encontrados em:
 - [J1 — Métricas Analíticas](J1_metricas_finais_Victor.csv)
-- [Gráficos de Performance](Grafico_Comparativo_OAB_Victor.png)
+- [Gráficos de Performance](Grafico_Comparativo_OAB_Victor.png)(Grafico_Radar_Modelos_Victor.png)
 
 ## Domínio de atuação
 
