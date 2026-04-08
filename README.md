@@ -193,16 +193,25 @@ As questões são submetidas aos três modelos selecionados via Ollama.
 
 ### 5.3 Avaliação e comparação
 
-O pipeline de análise utiliza métricas diferenciadas para os dois cenários:
+O pipeline de análise foi metodologicamente desenhado com métricas diferenciadas para os dois cenários do experimento, adequando-se à natureza específica (discursiva vs. objetiva) das questões da OAB:
 
-- **Questões abertas (J1):** Comparação entre a resposta da IA e o gabarito oficial via métricas de NLP:
-  - **BLEU e ROUGE-L:** Para sobreposição de termos e estrutura.
-  - **BERTScore (F1):** Para medir a similaridade semântica profunda.
-- **Múltipla escolha (J2):** Avaliação de desempenho por meio de métricas de classificação:
-  - **Acurácia:** Taxa geral de acerto.
-  - **Precision, Recall e F1-Score (Macro):** Para análise detalhada da performance por categoria jurídica.
 
----
+### 5.3.1 Avaliação de Questões Abertas (Dataset J1)
+
+A comparação entre a resposta gerada pela IA e o gabarito oficial é realizada através de métricas avançadas de Natural Language Processing (NLP):
+
+**BLEU e ROUGE (1, 2 e L):** Empregadas para medir a sobreposição sintática exata (n-gramas) e a preservação da estrutura frasal. Devido à natureza frequentemente concisa do gabarito oficial frente à inerente verbosidade e discursividade dos LLMs, é esperado que estas métricas apresentem valores residuais (próximos a zero).
+
+**BERTScore (F1):** Constitui a métrica primária e mais relevante para este cenário. Ao invés de exigir a mesma correspondência exata de palavras, o BERTScore utiliza embeddings contextuais para medir a similaridade semântica profunda. Isso permite atestar com precisão se a IA produziu o raciocínio jurídico e o sentido correto da resposta, independentemente do vocabulário utilizado.
+
+### 5.3.2 Avaliação de Múltipla Escolha (Dataset J2)
+
+Tratando-se de uma tarefa clássica de classificação categórica com gabarito fechado (alternativas A, B, C e D), o desempenho dos modelos é medido com métricas tradicionais de Machine Learning via Scikit-learn:
+
+**Acurácia:** Avalia a taxa bruta de acerto global da inferência frente ao gabarito oficial da OAB.
+
+**Precision, Recall e F1-Score (Macro):** Utilizadas para garantir uma avaliação equilibrada do comportamento gerativo. A escolha da média macro é crucial, pois penaliza modelos que apresentem viés (tendência viciada em escolher repetidamente uma mesma letra, como "A" ou "C"), refletindo a real capacidade lógico-dedutiva da IA diante de distratores complexos.
+
 
 ---
 
