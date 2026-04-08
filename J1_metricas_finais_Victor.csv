@@ -1,0 +1,4 @@
+﻿Modelo,Amostras,BLEU,ROUGE-1,ROUGE-2,ROUGE-L,BERTScore_F1
+Llama_3.1_8B,10,0.0,0.0,0.0,0.0,0.4684
+Mistral_7B,10,0.0,0.0,0.0,0.0,0.4668
+DeepSeek_R1_8B,10,0.0,0.0002,0.0,0.0002,0.4746
