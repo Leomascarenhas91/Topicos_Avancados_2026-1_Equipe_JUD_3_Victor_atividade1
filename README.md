@@ -85,7 +85,6 @@ Foram utilizados modelos via [Ollama](https://ollama.com/), selecionados pela di
 
 ---
 
-
 ## 2. Instruções de execução
 
 ### 2.1 Pré-requisitos
@@ -98,28 +97,129 @@ Foram utilizados modelos via [Ollama](https://ollama.com/), selecionados pela di
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Leonardomascarenhas91/Topicos_Avancados_2026-1_Equipe_JUD_3_Victor_atividade1.git](https://github.com/Leonardomascarenhas91/Topicos_Avancados_2026-1_Equipe_JUD_3_Victor_atividade1.git)
+git clone https://github.com/Leonardomascarenhas91/Topicos_Avancados_2026-1_Equipe_JUD_3_Victor_atividade1.git
 cd Topicos_Avancados_2026-1_Equipe_JUD_3_Victor_atividade1
 
 # Instalar dependências
 pip install pandas requests evaluate rouge_score bert_score sacrebleu matplotlib seaborn scikit-learn
 
 # Executar o notebook de avaliação
-# Certifique-se de que o Ollama está rodando
+# Certifique-se de que o Ollama está a correr
 jupyter notebook Atividade1_Victor.ipynb
+
+```
 
 
 ---
-
 
 ## 3. Mapeamento das questões
 
 ### 3.1 Dataset J1 — Questões abertas (`maritaca-ai/oab-bench`)
 
-O dataset J1 contém **210 registros**. As questões designadas para minha análise correspondem a um intervalo de **10 questões abertas** (discursivas), focadas na avaliação de fundamentação jurídica, síntese e análise de casos.
+O dataset J1 contém **210 registros**. As questões designadas para minha análise correspondem a um intervalo de **10 questões abertas** (discursivas), focadas na avaliação de fundamentação e síntese jurídica.
 
 ### 3.2 Dataset J2 — Questões objetivas (`eduagarcia/oab_exams`)
 
-O dataset J2 contém **2210 questões objetivas**. As questões designadas para minha análise correspondem ao intervalo de índices **2091 a 2130** (Python, base zero), totalizando **39 questões de múltipla escolha**.
+O dataset J2 contém **2210 questões objetivas**. As questões designadas para minha análise correspondem ao intervalo de índices **2092 a 2210** (Python, base zero), totalizando **120 questões de múltipla escolha**.
+
+---
+
+---
+
+## 4. Estrutura dos datasets
+
+### 4.1 Dataset `maritaca-ai/oab-bench` (J1)
+
+| Campo | Tipo | Descrição |
+|---|---|---|
+| `question_id` | `string` | Identificador único da questão |
+| `category` | `string` | Categoria temática (exame + área jurídica) |
+| `statement` | `string` | Enunciado completo da questão discursiva |
+| `turns` | `array[string]` | Subperguntas ou itens de resposta esperada |
+| `values` | `array[number]` | Pesos atribuídos a cada item de `turns` |
+| `system` | `string` | System prompt original para orientação do modelo |
+
+### 4.2 Dataset `eduagarcia/oab_exams` (J2)
+
+| Campo | Tipo | Descrição |
+|---|---|---|
+| `id` | `string` | Identificador único da questão objetiva |
+| `question_number` | `integer` | Numeração original da questão na prova |
+| `exam_id` | `string` | Identificação da edição do Exame de Ordem |
+| `exam_year` | `string` | Ano de realização do certame |
+| `question` | `string` | Enunciado completo da questão de múltipla escolha |
+| `choices` | `object` | Alternativas contendo `label` (A, B, C, D) e `text` |
+| `answerKey` | `string` | Gabarito oficial da questão (A, B, C ou D) |
+
+---
+
+---
+
+## 5. Metodologia
+
+### 5.1 Curadoria
+
+A curadoria avalia cada questão sob a ótica da **Complexidade de Raciocínio (Reasoning)** e do **Aterramento (Grounding)** exigidos da IA. Cada registro é enriquecido com:
+
+- **Nível de Dificuldade — Complexidade do Raciocínio do LLM:**
+  - Nível 1: Recuperação Factual Direta (*Fact Retrieval*)
+  - Nível 2: Raciocínio Lógico-Dedutivo (*Logical Deduction*)
+  - Nível 3: Hermenêutica Jurídica Complexa (*Complex Hermeneutics*)
+- **Subdomínio Semântico** — Área de especialidade jurídica correspondente (Ex: Direito Civil, Penal, Empresarial).
+- **Corpus de Referência** — *Ground truth* onde a resposta deve estar ancorada (Ex: Constituição Federal, Código Civil, CLT).
+
+A classificação inicial dos metadados é realizada utilizando os modelos locais com suporte de *prompts* especializados.
+
+### 5.2 Inferência com LLMs
+
+As questões são submetidas aos três modelos selecionados via Ollama. 
+- **Dataset J1:** Foca na geração de texto discursivo com fundamentação legal explícita.
+- **Dataset J2:** Utiliza estruturação de *prompt* para garantir respostas objetivas e facilitar a extração automática da alternativa correta.
+
+### 5.3 Avaliação e comparação
+
+O pipeline de análise utiliza métricas diferenciadas para os dois cenários:
+
+- **Questões abertas (J1):** Comparação entre a resposta da IA e o gabarito oficial via métricas de NLP:
+  - **BLEU e ROUGE-L:** Para sobreposição de termos e estrutura.
+  - **BERTScore (F1):** Para medir a similaridade semântica profunda.
+- **Múltipla escolha (J2):** Avaliação de desempenho por meio de métricas de classificação:
+  - **Acurácia:** Taxa geral de acerto.
+  - **Precision, Recall e F1-Score (Macro):** Para análise detalhada da performance por categoria jurídica.
+
+---
+
+---
+
+## 6. Resultados
+
+### 6.1 Leaderboard Consolidado — Questões Abertas (J1)
+
+A tabela abaixo apresenta o desempenho dos modelos no Dataset J1, com destaque para a similaridade semântica medida pelo BERTScore.
+
+| Modelo | BLEU | ROUGE-L | BERTScore F1 |
+|---|---|---|---|
+| **Llama 3.1 8B** | **0.0340** | **0.1982** | 0.7410 |
+| **DeepSeek-R1 8B** | 0.0125 | 0.1850 | **0.7534** |
+| **Mistral 7B** | 0.0102 | 0.1540 | 0.7120 |
+
+### 6.2 Análise Visual de Performance (J1)
+
+<div align="center">
+  <img src="Grafico_Comparativo_OAB_Victor.png" width="48%" alt="Gráfico Comparativo J1">
+  <img src="Grafico_Radar_Modelos_Victor.jpg" width="48%" alt="Gráfico Radar J1">
+</div>
+
+### 6.3 Avaliação — Múltipla Escolha (J2)
+
+Os resultados das questões objetivas serão consolidados após a finalização da inferência na cota de 39 questões.
+
+| Modelo | Acurácia (%) | Precision | Recall | F1 (macro) |
+|---|---|---|---|---|
+| **Llama 3.1 8B** | - | - | - | - |
+| **Mistral 7B** | - | - | - | - |
+| **DeepSeek-R1 8B** | - | - | - | - |
+
+> **Nota:** A avaliação do J2 utilizará o gabarito oficial para o cálculo das métricas de classificação clássica.
 
 ---
