@@ -130,7 +130,43 @@ As entidades religiosas não têm direito à imunidade tributária em relação 
 
 3. ANÁLISE TÉCNICA: A imunidade tributária das entidades religiosas é um direito constitucional inalienável e imprescindível, que não pode ser suspensa ou revogada por lei ordinária (artigo 180, CF). Por outro lado, a LC 123/2006 permite a instituição de contribuições para custear serviços públicos de interesse geral. No entanto, aplicando o princípio da imunidade tributária, as entidades religiosas não podem ser obrigadas a pagar tal contribuição.
 
-4. CONCLUSÃO: As entidades religiosas do Município Alfa, em virtude de sua imunidade tributária, não devem pagar a contribuição instituída pelo Município para custear a instalação e operação de câmeras de segurança nas principais vias públicas.","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+4. CONCLUSÃO: As entidades religiosas do Município Alfa, em virtude de sua imunidade tributária, não devem pagar a contribuição instituída pelo Município para custear a instalação e operação de câmeras de segurança nas principais vias públicas.","**1. SÍNTESE**
+
+A contribuição instituída pela lei ordinária municipal para custear a instalação e operação de câmeras de segurança é suscetível ao pagamento por parte das entidades religiosas, não incidindo sobre elas o benefício da imunidade tributária prevista no art. 150, III, b do CTN. Tal contribuição, por natureza, não se trata de imposto, mas sim de um fato distinto, não alcançado pela vedação legal.
+
+---
+
+**2. FUNDAMENTAÇÃO**
+
+A imunidade tributária prevista no art. 150, III, b do Códigos Tributário Nacional (CTN) é aplicável apenas a certos tributos, tais como impostos federais, estaduais e municipais que tenham natureza tributária. O art. 150, III, b do CTN estabelece que entidades de ensino, ciência e tecnologia, bem como entidades de assistência social e religiosas, são isentas de contribuições federais, mas não se aplica a outras espécies tributárias, como taxas ou contribuições municipais.
+
+Além disso, o art. 155 do CTN trata especificamente de contribuições de melhorias, que são instituídas por lei própria e destinadas a custear melhorias em áreas específicas. Diferente de impostos, contribuições não possuem natureza compulsória originária, mas sim condicionada à prestação de serviços públicos. Nesse contexto, a contribuição municipal em questão, embora instituída por lei ordinária, não é considerada um imposto, mas sim um fato distinto, não alcançado pela imunidade tributária.
+
+As entidades religiosas, embora gozem de imunidade em relação a certos tributos federais e estaduais, não têm essa vedação aplicável a contribuições municipais, salvo se a lei municipal expressamente a mencionar. Nesse caso, a contribuição é voltada a um serviço público (segurança) e não se trata de uma espécie tributária, o que exclui o benefício da imunidade.
+
+---
+
+**3. ANÁLISE**
+
+A principal alegação das entidades religiosas é que a contribuição municipal deveria ser enquadrada como um imposto ou tributo, alcançando assim a imunidade prevista no art. 150 do CTN. No entanto, essa tese é infundada, pois:
+
+- A contribuição em questão é instituída por lei municipal, mas não tem natureza de imposto (art. 145 do CTN). Impostos são tributos de natureza originária, enquanto contribuições são dependentes de serviços específicos.
+- O art. 150 do CTN trata exclusivamente de imunidades em relação a certos tributos, e não se estende a contribuições, salvo em casos específicos previstos na lei.
+- A imunidade tributária é restrita a entidades específicas e tributos específicos. Nesse caso, a contribuição municipal não é um tributo federal, estadual ou municipal previsto no art. 150.
+
+Além disso, a finalidade da contribuição (custear serviços de segurança pública) não se confunde com a de um imposto, que tem como base a capacidade contributiva dos sujeitos passivos. Assim, a imunidade tributária não se estende a esse tipo de obrigação.
+
+Outro ponto a considerar é que a imunidade tributária só se aplica a entidades religiosas se a vedação for expressa na lei. Neste caso, a lei municipal não menciona a imunidade, o que reforça a não aplicação do benefício.
+
+---
+
+**4. CONCLUSÃO**
+
+Diante do exposto, conclui-se que a contribuição municipal instituída para custear a instalação e operação de câmeras de segurança **não é suscetível à imunidade tributária** prevista no art. 150 do CTN. A natureza da contribuição, bem como a ausência de vedação expressa na lei municipal, ensejam o seu pagamento por parte das entidades religiosas, respeitando-se o princípio da capacidade contributiva e o arcabouço legal tributário.
+
+---
+
+**Observação:** Se a finalidade da contribuição fosse exclusivamente religiosa ou se os serviços prestados fossem de utilidade pública específica para as entidades, a imunidade poderia ser invocada, mas no caso em tela, trata-se de serviço público municipal, o que exclui a aplicação da imunidade."
 44_direito_tributario_questao_2,44_direito_tributario,"Uma lei federal ordinária do início de 2023, acompanhada de estimativa de impacto financeiro e orçamentário, concedeu benefícios tributários de Imposto sobre Produtos Industrializados (IPI) a contribuintes que não haviam declarado ou que não haviam pago devidamente o tributo referente aos anos de 2021 e 2022.
 Tais benefícios consistiram em não cobrar multa sobre os valores não declarados nem recolhidos e em conceder desconto de 20% sobre o valor do tributo que foi declarado, mas não chegou a ser recolhido. A lei também beneficiava, com a não cobrança de multa, aqueles atos praticados com dolo pelo sujeito passivo para ocultar a ocorrência dos fatos geradores.
 Diante desse cenário, responda aos itens a seguir.
@@ -149,7 +185,73 @@ PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direi
 QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
 
 A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
-",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Tributário,Corpus: Código Tributário Nacional,"Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Tributário,Corpus: Código Tributário Nacional,"**1. SÍNTESE**
+
+A lei federal ordinária de 2023 concedeu benefícios tributários a contribuintes que não haviam declarado ou pago o IPI nos anos de 2021 e 2022. Esses benefícios incluem não cobrar multa sobre valores não declarados nem recolhidos, além de desconto de 20% sobre os valores declarados, mas não recolhidos.
+
+**2. FUNDAMENTAÇÃO**
+
+A Constituição Federal (CF) estabelece que a lei tributária deve ser clara e específica no que diz respeito às suas exigências e penalidades (artigo 150, IV). Além disso, o Código Tributário Nacional (CTN) também prevê que a lei deve determinar as penalidades de acordo com a natureza do ato ou fato (art. 139).
+
+A Lei de Responsabilidade Fiscal estabelece que os gestores públicos devem priorizar o cumprimento das metas fiscais e evitar benefícios tributários excessivos (artigo 12, III). No entanto, não há previsão legal expressa sobre a concessão de benefícios tributários para contribuintes que não declararam ou não pagaram o tributo.
+
+A Lei Federal Ordinária de 2023 parece estar violando os princípios da igualdade e da isonomia, pois estabelece tratamento diferenciado para os contribuintes que não declararam ou não pagaram o tributo. Além disso, a lei também pode ser considerada inconstitucional por violar o princípio do não surpresa, pois estabelece penalidades mais brandas do que as previstas anteriormente.
+
+**3. ANÁLISE**
+
+A Lei Federal Ordinária de 2023 concede benefícios tributários a contribuintes que não declararam ou pagaram o IPI nos anos de 2021 e 2022, o que pode ser considerado uma forma de fomentar a cultura da declaração e do pagamento dos tributos. No entanto, a lei também estabelece penalidades mais brandas para os contribuintes que praticam atos dolosos para ocultar a ocorrência dos fatos geradores.
+
+A Lei Federal Ordinária de 2023 pode ser considerada inconstitucional por violar o princípio da isonomia e do não surpresa. Além disso, a lei também pode estar violando os princípios da igualdade e da justiça tributária.
+
+**4. CONCLUSÃO**
+
+Em resumo, a Lei Federal Ordinária de 2023 concede benefícios tributários a contribuintes que não declararam ou pagaram o IPI nos anos de 2021 e 2022. No entanto, a lei também estabelece penalidades mais brandas para os contribuintes que praticam atos dolosos para ocultar a ocorrência dos fatos geradores.
+
+A Lei Federal Ordinária de 2023 pode ser considerada inconstitucional por violar o princípio da isonomia e do não surpresa. Além disso, a lei também pode estar violando os princípios da igualdade e da justiça tributária.
+
+A solução para este problema seria a reformulação da Lei Federal Ordinária de 2023 para que ela seja mais justa e igualitária, estabelecendo penalidades mais brandas para todos os contribuintes que não declararam ou pagaram o IPI nos anos de 2021 e 2022.","1. SÍNTESE: A lei federal ordinária promulgada no início de 2023 concede benefícios tributários ao Imposto sobre Produtos Industrializados (IPI) a contribuintes que não declararam ou não pagaram o tributo devidamente referente aos anos de 2021 e 2022. Esses benefícios incluem a não cobrança de multas por valores não declarados nem recolhidos e um desconto de 20% no valor do tributo declarado, mas não pago. Além disso, a lei também permite que os atos praticados com dolo pelo sujeito passivo para ocultar a ocorrência dos fatos geradores sejam beneficiados com a não cobrança de multa.
+
+2. FUNDAMENTAÇÃO: A lei é baseada no direito fiscal, mais especificamente nos princípios do incentivo à declaração e pago de tributos, além da promoção à regularização de situações anteriores que não foram declaradas ou pagas. No entanto, a exceção para aqueles atos praticados com dolo pelo sujeito passivo para ocultar os fatos geradores é uma cláusula inovadora no sistema fiscal brasileiro, que pode ser considerada como um incentivo à regularização para evitar multas.
+
+3. ANÁLISE: A lei proporciona benefícios significativos aos contribuintes que declararam e pagaram o tributo devidamente referente aos anos de 2021 e 2022, mas também apresenta preocupações quanto ao incentivo a não declarar ou não pagar tributos e a ocultação de atos ilícitos. Além disso, a exceção para aqueles atos praticados com dolo pelo sujeito passivo pode gerar injustiças, uma vez que poderia proteger indivíduos que tentaram ocultar atos ilícitos.
+
+4. CONCLUSÃO: A lei é um incentivo à declaração e pago de tributos devidamente, porém a exceção para aqueles atos praticados com dolo pelo sujeito passivo pode gerar injustiças e preocupações quanto ao incentivo a não declarar ou não pagar tributos e a ocultação de atos ilícitos. A análise dos efeitos da lei é necessária para garantir a justiça fiscal, proteger os contribuintes honestos e minimizar as distorções no mercado.","**SÍNTESE**
+
+A lei federal ordinária de 2023 concedeu isenção de multas e desconto de 20% no valor do Imposto sobre Produtos Industrializados (IPI) não declarado ou pago em 2021 e 2022, incluindo casos de dolo para ocultar os fatos geradores. Esta medida configura uma flexibilização tributária que, ao permitir a renegociação de débitos anteriores com benefícios fiscais, pode violar princípios constitucionais e legais do direito tributário.
+
+---
+
+**FUNDAMENTAÇÃO**
+
+1. **Princípio da Capacidade Contributiva**: O direito tributário exige que os contribuintes paguem tributos proporcionalmente à sua capacidade econômica. A concessão de desconto de 20% no valor do IPI não pago em anos anteriores, sem que o contribuinte regularize sua situação financeira, pode ser considerada uma violação desse princípio, pois reduz o valor devido sem que haja uma verificação prévia da capacidade contributiva do infrator.
+
+2. **Princípio da Anterioridade do Ato**: O art. 132 da Constituição Federal prevê que a lei tributária não pode retroagir, exceto em casos de enriquecimento ilícito ou extinção de crime. A lei em análise, sancionada em 2023, retroage para os anos de 2021 e 2.022, permitindo a não cobrança de multas e desconto no tributo, o que viola o princípio da anterioridade do ato.
+
+3. **Espécie da Lei**: A lei em questão trata-se de uma lei tributária, pois concede benefícios fiscais em detrimento de contribuintes que praticaram infrações fiscais. A Lei nº 8.137/1990, art. 3º, determina que leis tributárias não podem beneficiar contribuintes que praticaram irregularidades fiscais, salvo em casos específicos de dispensa de multas previstos em lei.
+
+4. **Dolo Fiscal**: A lei menciona expressamente a não cobrança de multas para atos praticados com dolo, ou seja, com intenção de ocultar a ocorrência de fatos geradores. Isso constitui uma violação ao princípio da continuidade fiscal, pois permite que contribuintes que agiram de má-fé se beneficiem com a redução da obrigação tributária.
+
+---
+
+**ANÁLISE**
+
+A lei em questão apresenta sérios problemas de constitucionalidade e de ordem técnica tributária:
+
+- **Inconstitucionalidade por Retroatividade**: A lei, ao retroagir para os anos de 2021 e 2022, viola o art. 132 da Constituição Federal, que estabelece a não retroatividade das leis tributárias, salvo em casos excepcionais.
+
+- **Violação ao Princípio da Legalidade**: A dispensa de multas e o desconto de 20% no valor do IPI não pago configuram uma redução da receita do fisco sem uma base legal específica para cada caso, o que pode ser considerado uma ilegalidade.
+
+- **Violação ao Princípio da Igualdade**: A lei trata de forma diferenciada contribuintes que deixaram de declarar ou pagar o IPI em 2021 e 2022, permitindo-lhes benefícios fiscais que seriam vedados a outros contribuintes que regularizaram suas obrigações no mesmo período.
+
+- **Problemas de Transparência Fiscal**: A concessão de desconto de 20% no valor do IPI não pago, sem que o contribuinte regularize sua situação financeira, pode gerar distorções no sistema tributário, prejudicando outros contribuintes e o erário público.
+
+---
+
+**CONCLUSÃO**
+
+A lei federal ordinária de 2023 que concede isenção de multas e desconto de 20% no IPI não pago em 2021 e 2022, inclusive em casos de dolo, é **inconstitucional** e **lesiva aos princípios do direito tributário**. Ela viola o princípio da anterioridade do ato, a capacidade contributiva dos contribuintes, a legalidade tributária e a igualdade fiscal. Além disso, a dispensa de multas em casos de dolo constitui um risco à fiscalização tributária e ao erário público.
+
+**Recomendação**: A lei deve ser declarada inconstitucional por retroatividade e por violar os princípios tributários, sendo necessária a edição de uma norma que regularize a situação dos contribuintes de forma transparente e legal, respeitando a ordem jurídica e fiscal."
 44_direito_tributario_questao_3,44_direito_tributario,"José recebeu em 2025, em seu domicílio, uma notificação para pagar ao Município Alfa o Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) referente à aquisição de um imóvel, situado no território municipal, levada a registro no ano de 2018. A cobrança também aplicara uma alíquota maior sobre a transmissão em razão do valor venal do imóvel.
 O fundamento legal da cobrança indicava que lei complementar do Município Alfa, em vigor desde 1/1/2017, estabelecera o prazo decadencial para a constituição dos créditos tributários municipais em dez anos. A mesma lei complementar determinara que o ITBI nesse Município passaria a ter alíquotas progressivas em razão do valor venal do imóvel.
 Diante desse cenário, responda aos itens a seguir.
@@ -192,7 +294,34 @@ A cobrança de ITBI pelo Município Alfa, com base em lei complementar que estab
 
 3. ANÁLISE TÉCNICA: De acordo com a Lei Complementar do Município Alfa, o prazo decadencial para a constituição dos créditos tributários municipais é de 10 anos (artigo XYZ da Lei nº XYZ/2017). No entanto, José adquiriu o imóvel em 2018, que é dentro do prazo decadencial estabelecido pela lei. Portanto, a cobrança do ITBI para José é válida. Além disso, a lei complementar também determina que o ITBI nesse Município passará a ter alíquotas progressivas em razão do valor venal do imóvel (artigo XYZ da Lei nº XYZ/2017). Dado que o valor venal do imóvel é maior, a cobrança também aplicou uma alíquota maior sobre a transmissão.
 
-4. CONCLUSÃO: A cobrança do Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) pelo Município Alfa para José, que adquiriu um imóvel no município em 2018, é válida, considerando o prazo decadencial de 10 anos estabelecido pela lei complementar do Município Alfa e a aplicação de alíquotas progressivas em razão do valor venal do imóvel.","Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)"
+4. CONCLUSÃO: A cobrança do Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) pelo Município Alfa para José, que adquiriu um imóvel no município em 2018, é válida, considerando o prazo decadencial de 10 anos estabelecido pela lei complementar do Município Alfa e a aplicação de alíquotas progressivas em razão do valor venal do imóvel.","**SÍNTESE**  
+José deve ser exonerado do pagamento, pois o crédito tributário do ITBI originário de 2018 prescreveu em virtude da decadência do prazo constitucional de cinco anos, inconstitucionalmente superior ao previsto na lei municipal.  
+
+---
+
+**FUNDAMENTAÇÃO**  
+1. **Natureza do ITBI**:  
+   - É um imposto municipal previsto no art. 156, II da CF/88, permitindo sua instituição por lei complementar municipal.  
+
+2. **Prazo Prescricional**:  
+   - O art. 135, VI da CF/88 estabelece prazo decadencial de cinco anos para o exercício do poder fiscal, incompatível com previsão maior na lei municipal.  
+
+3. **Prescrição do Crédito Tributário**:  
+   - O ITBI de 2018 prescreveu em 2023, conforme o art. 135, VI da CF/88, e a cobrança em 2025 é nula.  
+
+4. **Alíquota Progressiva**:  
+   - O art. 158 da CF/88 autoriza alíquotas progressivas para impostos municipais, desde que não sejam os federais.  
+
+---
+
+**ANÁLISE**  
+- **Prescrição**: O prazo decadencial previsto na lei municipal (dez anos) é inconstitucional, pois a CF/88 limita a cinco anos. O crédito do ITBI de 2018 prescreveu em 2023, tornando a cobrança de 2025 nula.  
+- **Alíquota Progressiva**: A determinação da lei complementar municipal é válida, pois o art. 158 da CF/88 admite alíquotas progressivas para impostos municipais.  
+
+---
+
+**CONCLUSÃO**  
+O município deve extinguir o crédito tributário por falta de prescrição, mantendo a legalidade da alíquota progressiva, mas excluindo a cobrança pós-prescrição."
 44_direito_tributario_questao_4,44_direito_tributario,"Um Juiz de Vara Federal de Execuções Fiscais despachou petição inicial de medida cautelar fiscal contra Mário, em 10/7/2024, concedendo liminar para o bloqueio de seus bens em valor que satisfizesse a dívida. A razão da concessão da liminar se deveu ao fato de que Mário, notificado pela Fazenda Nacional para que procedesse ao recolhimento de vultoso crédito fiscal, tentou colocar seus bens em nome de terceiros como forma de esvaziar seu patrimônio capaz de responder pelo débito.
 A liminar foi cumprida no dia 12/7/2024, por meio do bloqueio dos valores presentes na conta de Mário, com a juntada aos autos do mandado de cumprimento em 15/7/2024. A citação efetiva de Mário ocorreu apenas em 16/7/2024, com a juntada aos autos do mandado de citação devidamente cumprido em 18/7/2024.
 Diante desse cenário, responda aos itens a seguir.
@@ -211,7 +340,28 @@ PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direi
 QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
 
 A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
-",Recuperação Factual Direta,Subdomínio: Direito Processual Tributário,Corpus: Lei nº 8.397/1992 (Medida Cautelar Fiscal),"Erro na Inferência: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=180)","1. SÍNTESE DO CASO: O problema jurídico central é se a liminar concedida pelo Juiz de Vara Federal de Execuções Fiscais para o bloqueio dos bens de Mário, notificado pela Fazenda Nacional para recolhimento de vultoso crédito fiscal, foi cumprida corretamente, mesmo com a citação efetiva acontecendo após o mandado de cumprimento.
+",Recuperação Factual Direta,Subdomínio: Direito Processual Tributário,Corpus: Lei nº 8.397/1992 (Medida Cautelar Fiscal),"1. SÍNTESE
+O caso em questão envolve uma medida cautelar fiscal concedida por um Juiz de Vara Federal de Execuções Fiscais contra Mário, com o objetivo de bloquear seus bens para garantir a dívida fiscal. A liminar foi cumprida antes da efetiva citação do devedor, levantando questões sobre a validade e legalidade desse procedimento.
+
+2. FUNDAMENTAÇÃO
+
+De acordo com as normas processuais brasileiras, a medida cautelar fiscal deve ser concedida mediante decisão fundamentada, que demonstre a necessidade da medida para evitar dano irreparável à Fazenda Pública (artigo 822, parágrafo único do Código de Processo Civil). Além disso, o artigo 839 do Código de Processo Civil estabelece que a liminar somente pode ser concedida após a citação do devedor.
+
+Nesse caso específico, há indícios de que Mário tentou esvaziar seu patrimônio ao colocar seus bens em nome de terceiros. Dada a gravidade da situação e o risco de perda para a Fazenda Nacional, o Juiz pode ter entendido que era necessário proceder com cautela e agilidade para evitar danos irreparáveis.
+
+No entanto, é crucial observar que a efetiva citação do devedor é um requisito fundamental para a validade da medida cautelar fiscal. A decisão do Juiz foi cumprida antes da citação de Mário em 16/7/2024, o que poderia ser considerado uma violação à regra processual.
+
+3. ANÁLISE
+
+A análise desse caso envolve avaliar a legalidade e validade da medida cautelar fiscal concedida pelo Juiz. A decisão foi baseada na necessidade de evitar danos irreparáveis à Fazenda Nacional, mas o procedimento adotado (cumpri-lo antes da citação do devedor) pode ser considerado inconstitucional e contrário ao Código de Processo Civil.
+
+É importante lembrar que a Constituição Federal estabelece o princípio do contraditório, garantindo que todos os sujeitos processuais tenham oportunidade de apresentar suas alegações antes da decisão (artigo 93, inciso IX). A medida cautelar fiscal é uma ferramenta poderosa para proteger interesses públicos, mas deve ser utilizada de acordo com as normas processuais e constitucionais.
+
+4. CONCLUSÃO
+
+Diante das informações fornecidas, pode-se concluir que a medida cautelar fiscal concedida pelo Juiz pode ser considerada ilegal ou inconstitucional se não houver fundamento claro sobre por que ela foi cumprida antes da citação de Mário. A decisão do Juiz deve estar fundamentada em regras processuais e constitucionais, garantindo a validade e eficácia da medida cautelar fiscal.
+
+É recomendável que o caso seja revisitado para que sejam fornecidas razões claras e objetivas sobre a necessidade de cumprir a liminar antes da citação do devedor. Isso garante a observância das normas processuais, a proteção dos direitos dos sujeitos envolvidos e o respeito à Constituição Federal.","1. SÍNTESE DO CASO: O problema jurídico central é se a liminar concedida pelo Juiz de Vara Federal de Execuções Fiscais para o bloqueio dos bens de Mário, notificado pela Fazenda Nacional para recolhimento de vultoso crédito fiscal, foi cumprida corretamente, mesmo com a citação efetiva acontecendo após o mandado de cumprimento.
 
 2. FUNDAMENTAÇÃO LEGAL: A liminar é estabelecida pela Lei nº 13.645/2018, que regula o Direito Processual Tributário, no artigo 179, § 1º, que dispõe sobre a medida cautelar fiscal, e no artigo 180, que trata dos requisitos para a concessão da liminar. A citação é regulada pelo Código de Processo Civil (CPC), no artigo 234, que dispõe sobre o mandado de citação.
 
