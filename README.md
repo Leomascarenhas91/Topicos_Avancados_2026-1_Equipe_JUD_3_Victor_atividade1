@@ -209,7 +209,7 @@ A tabela abaixo apresenta o desempenho dos modelos no Dataset J1, com destaque p
 
 <div align="center">
   <img src="Grafico_Comparativo_OAB_Victor.png" width="48%" alt="Gráfico Comparativo J1">
-  <img src="Grafico_Radar_Modelos_Victor.jpg" width="48%" alt="Gráfico Radar J1">
+  <img src="Grafico_Radar_Modelos_Victor.png" width="48%" alt="Gráfico Radar J1">
 </div>
 
 ### 6.3 Avaliação — Múltipla Escolha (J2)
