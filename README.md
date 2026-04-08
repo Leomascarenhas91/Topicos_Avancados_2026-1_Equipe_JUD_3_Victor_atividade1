@@ -164,9 +164,9 @@ O dataset J2 contém **2210 questões objetivas**. As questões designadas para 
 A curadoria avalia cada questão sob a ótica da **Complexidade de Raciocínio (Reasoning)** e do **Aterramento (Grounding)** exigidos da IA. Cada registro é enriquecido com:
 
 - **Nível de Dificuldade — Complexidade do Raciocínio do LLM:**
-  - Nível 1: Recuperação Factual Direta (*Fact Retrieval*)
-  - Nível 2: Raciocínio Lógico-Dedutivo (*Logical Deduction*)
-  - Nível 3: Hermenêutica Jurídica Complexa (*Complex Hermeneutics*)
+  - Nível 1: Recuperação Factual Direta (*Fact Retrieval*): A resposta depende apenas da memorização de um artigo de lei ou conceito exato.
+  - Nível 2: Raciocínio Lógico-Dedutivo (*Logical Deduction*): O LLM deve extrair fatos de um caso concreto e aplicar uma regra clara (Se A, então B).
+  - Nível 3: Hermenêutica Jurídica Complexa (*Complex Hermeneutics*): Exige interpretação profunda, cruzamento de leis e análise de jurisprudência/ambiguidades.
 - **Subdomínio Semântico** — Área de especialidade jurídica correspondente (Ex: Direito Civil, Penal, Empresarial).
 - **Corpus de Referência** — *Ground truth* onde a resposta deve estar ancorada (Ex: Constituição Federal, Código Civil, CLT).
 
