@@ -223,3 +223,19 @@ Os resultados das questões objetivas serão consolidados após a finalização 
 > **Nota:** A avaliação do J2 utilizará o gabarito oficial para o cálculo das métricas de classificação clássica.
 
 ---
+---
+
+## 7. Referências
+
+- Maritaca AI. [OAB Bench: A Benchmark for LLMs in the Brazilian Bar Exam](https://github.com/maritaca-ai/oab-bench).
+- HuggingFace. [OAB Exams Dataset](https://huggingface.co/datasets/eduagarcia/oab_exams).
+- Zhang, T. et al. [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675). ICLR, 2020.
+- Zhao, H. *et al.* [LLM Evaluation: A Comprehensive Survey](https://arxiv.org/abs/2307.03109). 2025.
+- Ollama. [Documentação Oficial e Repositório de Modelos](https://ollama.com/).
+
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por Victor Mascarenhas — Domínio Jurídico | UFS — 2026.1</sub>
+</div>
