@@ -84,6 +84,19 @@ Foram utilizados modelos via [Ollama](https://ollama.com/), selecionados pela di
 | 2 | Mistral 7B | Mistral AI | `ollama pull mistral` |
 | 3 | DeepSeek-R1 8B | DeepSeek | `ollama pull deepseek-r1:8b` |
 
+### 1.3 Justificativa
+
+A seleção dos Modelos de Linguagem de Grande Escala (LLMs) para este experimento não se deu de forma arbitrária, mas fundamentou-se na necessidade de contrapor diferentes paradigmas arquitetônicos e estratégias de treinamento dentro das restrições de inferência local (hardware limitado a 8GB de VRAM). A literatura aponta que a avaliação em domínios altamente especializados, como o jurídico, exige modelos capazes não apenas de recuperação factual, mas de processamento lógico-dedutivo avançado (Zhao et al., 2025). Sob essa ótica, a tríade selecionada compõe um ecossistema metodologicamente robusto para análise:
+
+**Llama 3.1 8B (Adoção como Baseline do Estado da Arte)**
+O modelo Llama 3.1, desenvolvido pela Meta, foi adotado como o padrão-ouro de controle (baseline). Sua justificativa repousa em sua arquitetura densa amplamente otimizada através de Reinforcement Learning from Human Feedback (RLHF) e Direct Preference Optimization (DPO). Segundo Dubey et al. (2024), a família Llama 3 maximiza a densidade de conhecimento por parâmetro, resultando em capacidades de instruction-following (obediência a instruções) superiores na sua categoria de tamanho. No contexto do Exame da OAB, espera-se que sua vasta exposição a dados multilíngues e estruturas semânticas complexas durante o pré-treinamento garanta uma recuperação factual direta altamente precisa, servindo como o limite superior de desempenho para modelos generalistas densos.
+
+**Mistral 7B (Eficiência Arquitetônica e Gestão de Contexto)**
+A inclusão do Mistral 7B (Mistral AI) visa avaliar o impacto de inovações de eficiência computacional na compreensão hermenêutica. Conforme descrito por Jiang et al. (2023), o Mistral 7B utiliza técnicas avançadas como Grouped-Query Attention (GQA) e Sliding Window Attention (SWA). Estas otimizações permitem que o modelo processe informações contextuais mais longas e complexas com menor custo computacional, frequentemente superando modelos com o dobro do seu tamanho em benchmarks analíticos. No domínio jurídico brasileiro, onde os enunciados tendem a ser prolixos e as alternativas apresentam nuances sintáticas sutis, a capacidade do Mistral de manter a coerência em contextos estendidos justifica sua relevância neste estudo.
+
+**DeepSeek-R1 8B (Especialização em Raciocínio via Destilação)**
+A escolha do DeepSeek-R1 8B justifica-se pela sua arquitetura inerentemente focada no "pensamento" estruturado (reasoning-focused). Distinto dos modelos generalistas tradicionais, a série R1 emprega técnicas de aprendizado por reforço para incentivar o comportamento de Chain-of-Thought (Cadeia de Pensamento) nativo (DeepSeek-AI, 2025). Na prática, isto simula o raciocínio humano de "Sistema 2" (analítico e deliberativo). Como a classificação metodológica deste projeto abrange níveis de "Raciocínio Lógico-Dedutivo" e "Hermenêutica Jurídica Complexa", postula-se que a capacidade do DeepSeek-R1 de destilar lógicas intermediárias antes de gerar a resposta final oferecerá uma vantagem competitiva significativa frente a questões que demandam a subsunção de fatos à norma (aplicação do caso concreto à lei).
+
 
 ---
 
@@ -234,6 +247,10 @@ Os resultados das questões objetivas serão consolidados após a finalização 
 - Zhang, T. et al. [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675). ICLR, 2020.
 - Zhao, H. *et al.* [LLM Evaluation: A Comprehensive Survey](https://arxiv.org/abs/2307.03109). 2025.
 - Ollama. [Documentação Oficial e Repositório de Modelos](https://ollama.com/).
+- DeepSeek-AI. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2501.12948) 2025.
+- Dubey, A. et al. (Meta AI). [The Llama 3 Herd of Models.](https://arxiv.org/abs/2407.21783) 2024.
+- Jiang, A. Q. et al. [Mistral 7B.](https://arxiv.org/abs/2310.06825) 2023.
+
 
 
 ---
