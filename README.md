@@ -212,11 +212,11 @@ O pipeline de análise utiliza métricas diferenciadas para os dois cenários:
 
 A tabela abaixo apresenta o desempenho dos modelos no Dataset J1, com destaque para a similaridade semântica medida pelo BERTScore.
 
-| Modelo | BLEU | ROUGE-L | BERTScore F1 |
-|---|---|---|---|
-| **Llama 3.1 8B** | **0.0340** | **0.1982** | 0.7410 |
-| **DeepSeek-R1 8B** | 0.0125 | 0.1850 | **0.7534** |
-| **Mistral 7B** | 0.0102 | 0.1540 | 0.7120 |
+| Modelo | AMOSTRAS| BLEU | ROUGE-1 |ROUGE-2|ROUGE-L| BERTScore F1 |
+|---|---|---|---|---|---|---|
+| **Llama 3.1 8B** | 10 | 0 | 0 | 0 | 0 | **0.4684**|
+| **DeepSeek-R1 8B**| 10 | 0 | 0 | 0 | 0 | **0.4668**|
+| **Mistral 7B** | 10 | 0 | 0.0002 | 0 | 0.0002 | **0.4668**|
 
 ### 6.2 Análise Visual de Performance (J1)
 
