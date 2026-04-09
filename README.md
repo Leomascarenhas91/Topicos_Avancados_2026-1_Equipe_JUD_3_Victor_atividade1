@@ -256,15 +256,6 @@ Os resultados obtidos no dataset J2, composto por 120 questões extraídas do OA
 ### 6.5 Desempenho nas Questões Abertas (J1)
 Para o dataset J1, a avaliação focou na qualidade da geração de texto jurídico. Foram aplicadas métricas de processamento de linguagem natural (NLP) para comparar as respostas geradas com o padrão esperado (Ground Truth). Os resultados demonstram que o modelo DeepSeek-R1 8B obteve uma ligeira vantagem no BERTScore, sugerindo maior proximidade semântica com as fundamentações legais esperadas.
 
-
-| Modelo | BLEU  |ROUGE-1 | ROUGE-2|ROUGE-L |BERTScore F1 |
-|---|---|---|---|---|---|
-| Llama 3.1 8B | 0.0 | 0.0 | 0.0| 0.0 | 0.4684 |
-| Mistral 7B | & 0.0 & 0.0 & 0.0 & 0.0 & 0.4668 |
-| DeepSeek-R1 8B | 0.0 | 0.0002 | 0.0 | 0.0002 |0.4746 |
-
-
-
 ### 6.6 Consistência entre Modelos nas Questões Abertas
 A análise de consistência revelou que, embora as métricas de sobreposição de n-gramas (BLEU/ROUGE) tenham sido baixas devido à natureza expansiva e técnica das respostas jurídicas, a consistência semântica capturada pelo BERTScore manteve-se estável acima de 0.46 para todos os modelos. Isso indica que, apesar de utilizarem vocabulários distintos, os modelos convergem para interpretações jurídicas similares nos subdomínios analisados (Direito Civil, Penal e Tributário).
 
