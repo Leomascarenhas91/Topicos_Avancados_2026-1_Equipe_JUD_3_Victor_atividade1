@@ -236,13 +236,13 @@ A tabela abaixo apresenta o desempenho dos modelos no Dataset J1, com destaque p
 
 ### 6.3 Avaliação — Múltipla Escolha (J2)
 
-Os resultados das questões objetivas serão consolidados após a finalização da inferência na cota de 39 questões.
+Os resultados das questões objetivas serão consolidados após a finalização da inferência na cota de 120 questões.
 
 | Modelo | Acurácia (%) | Precision | Recall | F1 (macro) |
 |---|---|---|---|---|
-| **Llama 3.1 8B** | - | - | - | - |
-| **Mistral 7B** | - | - | - | - |
-| **DeepSeek-R1 8B** | - | - | - | - |
+| **Llama 3.1 8B** | 46.79 | 0.47 | 0.47 | 0.43 |
+| **Mistral 7B** | 45.87 | 0.46 | 0.46 | 0.40 |
+| **DeepSeek-R1 8B** | 48.62 | 0.49 | 0.49 | 0.50 |
 
 > **Nota:** A avaliação do J2 utilizará o gabarito oficial para o cálculo das métricas de classificação clássica.
 
