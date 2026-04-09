@@ -29,7 +29,7 @@ O núcleo central deste projeto, contendo toda a lógica de pré-processamento, 
 
 A documentação completa do projeto e os notebooks de execução estão disponíveis na raiz do repositório. Os resultados consolidados podem ser encontrados em:
 - [J1 — Métricas Analíticas](J1_metricas_finais_Victor.csv)
-- Gráficos de Performance: [Gráfico Comparativo](Grafico_Comparativo_OAB_Victor.png), [Gráfico de Radar](Grafico_Radar_Modelos_Victor.jpg)
+- Gráficos de Performance: [Gráfico Comparativo](Grafico_Comparativo_OAB_Victor.png), [Gráfico de Radar](Grafico_Radar_Modelos_Victor.png), [Métricas de Desempenho](Metricas_de_Desempenho.png)
 
 ## Domínio de atuação
 
@@ -244,9 +244,36 @@ Os resultados das questões objetivas serão consolidados após a finalização 
 | **Mistral 7B** | 45.87 | 0.46 | 0.46 | 0.40 |
 | **DeepSeek-R1 8B** | 48.62 | 0.49 | 0.49 | 0.50 |
 
-> **Nota:** A avaliação do J2 utilizará o gabarito oficial para o cálculo das métricas de classificação clássica.
+### 6.4 Resultados das Questões Objetivas (J2)
 
----
+Os resultados obtidos no dataset J2, composto por 120 questões extraídas do OAB Bench, consolidam o desempenho quantitativo dos modelos testados. A avaliação utilizou métricas de classificação clássica para mensurar a precisão e a capacidade de recuperação de informações jurídicas. A Figura abaixo apresenta uma comparação visual do desempenho dos modelos Llama 3.1 8B, Mistral 7B e DeepSeek-R1 8B em termos de acurácia geral nas questões de múltipla escolha.
+
+<div align="center">
+  <img src="Metricas_de_Desempenho.png" width="48%" alt="Metricas_de_Desempenho J2">
+</div>
+
+
+### 6.5 Desempenho nas Questões Abertas (J1)
+Para o dataset J1, a avaliação focou na qualidade da geração de texto jurídico. Foram aplicadas métricas de processamento de linguagem natural (NLP) para comparar as respostas geradas com o padrão esperado (Ground Truth). Os resultados demonstram que o modelo DeepSeek-R1 8B obteve uma ligeira vantagem no BERTScore, sugerindo maior proximidade semântica com as fundamentações legais esperadas.
+
+
+| Modelo | BLEU  |ROUGE-1 | ROUGE-2|ROUGE-L |BERTScore F1 |
+|---|---|---|---|---|---|
+| Llama 3.1 8B | 0.0 | 0.0 | 0.0| 0.0 | 0.4684 |
+| Mistral 7B | & 0.0 & 0.0 & 0.0 & 0.0 & 0.4668 |
+| DeepSeek-R1 8B | 0.0 | 0.0002 | 0.0 | 0.0002 |0.4746 |
+
+
+
+### 6.6 Consistência entre Modelos nas Questões Abertas
+A análise de consistência revelou que, embora as métricas de sobreposição de n-gramas (BLEU/ROUGE) tenham sido baixas devido à natureza expansiva e técnica das respostas jurídicas, a consistência semântica capturada pelo BERTScore manteve-se estável acima de 0.46 para todos os modelos. Isso indica que, apesar de utilizarem vocabulários distintos, os modelos convergem para interpretações jurídicas similares nos subdomínios analisados (Direito Civil, Penal e Tributário).
+
+### 6.7 Síntese e Classificação Final
+A síntese dos experimentos aponta o DeepSeek-R1 8B como o modelo de maior eficácia analítica para o contexto deste projeto, seguido de perto pelo Llama 3.1 8B. A infraestrutura baseada em Ollama permitiu uma inferência estável no hardware RTX 2000, garantindo que a latência de processamento não comprometesse a integridade dos dados coletados para o Grupo 3. A classificação final leva em consideração o equilíbrio entre desempenho quantitativo (J2) e qualitativo (J1).
+
+### 6.8 Resultados da Avaliação Cruzada
+A avaliação cruzada foi estruturada para mitigar vieses de modelo único. Através da comparação das saídas analíticas, observou-se que o DeepSeek-R1 tende a fornecer conclusões mais estruturadas, enquanto o Mistral 7B apresenta uma síntese mais objetiva. Essa dispersão de resultados foi consolidada graficamente no radar de desempenho apresentado na seção 6.2, que visualiza de forma clara os pontos fortes e fracos de cada modelo nos critérios de avaliação definidos.
+
 ---
 
 ## 7. Referências
