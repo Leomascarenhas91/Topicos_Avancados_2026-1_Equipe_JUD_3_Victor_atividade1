@@ -42,7 +42,7 @@ Este projeto atua no **Domínio Jurídico**, trabalhando com os seguintes datase
 
 ## Vídeo Demonstrativo
 
-> **Link do vídeo coletivo (Equipe 3):** [A ser adicionado](#)
+[Link do vídeo coletivo (Equipe 3)](https://youtu.be/1QMsz2wOlt0)
 
 ## Colaborador
 
