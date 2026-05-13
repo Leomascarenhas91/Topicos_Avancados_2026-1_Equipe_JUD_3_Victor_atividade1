@@ -1,0 +1,196 @@
+﻿question_id,category,statement,turns,values,system,Complexidade_Raciocinio_LLM,Subdominio_Semantico,Corpus_Aterramento
+44_direito_tributario_peca_profissional,44_direito_tributario,"A sociedade empresária Panos Belos Ltda., que atua no atacado de tecidos, sediada no Município Alfa, Estado Beta, enfrentando dificuldades financeiras no período entre janeiro e junho de 2024, embora tenha corretamente declarado o ICMS devido que lhe cabia recolher, deixou de efetuar o pagamento do tributo declarado, uma vez que preferiu honrar o pagamento de seus funcionários e fornecedores.
+Em razão disso, o Fisco do Estado Beta notificou a sociedade empresária para o pagamento em setembro de 2024, mas, como esta não adimpliu o débito, inscreveu-a em dívida ativa, iniciando a sua cobrança judicial por meio de Ação de Execução Fiscal distribuída à Vara Única do Município Alfa em 5/3/2025.
+A sociedade empresária foi encontrada para ser citada no endereço indicado perante o Fisco Estadual, mas não foram encontrados bens penhoráveis da sociedade empresária devedora, o que levou o Fisco estadual a requerer o redirecionamento da execução fiscal para Mateus, que fora sócio cotista da sociedade empresária até dezembro de 2023, quando se retirou da sociedade.
+Deferido o redirecionamento pelo Juízo, por meio do sistema RENAJUD, foram encontrados em nome de Mateus dois automóveis importados, os quais sofreram constrição judicial. Embora intimado da penhora em junho de 2025, Mateus quedou-se inerte e nem mesmo procurou advogado. Apenas em setembro de 2025, quando o Oficial de Justiça apareceu na porta de sua casa, com ordem judicial para remover os automóveis para o depósito judicial, Mateus resolveu procurar você, como advogado(a), para realizar sua defesa nessa execução fiscal.
+Mateus entrega-lhe cópia do contrato social da sociedade empresária, no qual fica atestado que era sócio cotista, assim como a cópia da ata em que se retirou da sociedade em dezembro de 2023 e a nova versão do contrato social, em que seu nome já não consta, tudo devidamente levado a registro perante a Junta Comercial do Estado Beta. Informa também não dispor, naquele momento, de recursos financeiros para realizar qualquer pagamento, sendo proprietário apenas dos dois automóveis penhorados.
+Diante dos fatos expostos, redija a peça de defesa adequada para defender o seu cliente, a ser apresentada nos autos da própria execução fiscal. (Valor: 5,00)
+Obs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.",[''],[5.0],"Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Hermenêutica Jurídica Complexa,Subdomínio: Direito Tributário,Corpus: Código Tributário Nacional e Lei de Execuções Fiscais
+44_direito_tributario_questao_1,44_direito_tributario,"Em 29/12/2023, o Município Alfa instituiu, por lei ordinária, uma contribuição voltada a custear a instalação e a operação de câmeras de segurança para monitorar os principais logradouros públicos da área urbana do Município. Diversas entidades religiosas do Município insurgiram-se contra a cobrança alegando que, em razão de sua imunidade tributária, não deveriam pagar tal contribuição.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) A instituição de tal contribuição para custear a instalação e operação de câmeras de segurança para monitorar os principais logradouros públicos da área urbana do Município é válida? Justifique. (Valor: 0,65)', 'B) Estão corretas as entidades religiosas em sua alegação de que, em razão de sua imunidade tributária, não deveriam pagar tal contribuição? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Constitucional Tributário,Corpus: Constituição Federal de 1988
+44_direito_tributario_questao_2,44_direito_tributario,"Uma lei federal ordinária do início de 2023, acompanhada de estimativa de impacto financeiro e orçamentário, concedeu benefícios tributários de Imposto sobre Produtos Industrializados (IPI) a contribuintes que não haviam declarado ou que não haviam pago devidamente o tributo referente aos anos de 2021 e 2022.
+Tais benefícios consistiram em não cobrar multa sobre os valores não declarados nem recolhidos e em conceder desconto de 20% sobre o valor do tributo que foi declarado, mas não chegou a ser recolhido. A lei também beneficiava, com a não cobrança de multa, aqueles atos praticados com dolo pelo sujeito passivo para ocultar a ocorrência dos fatos geradores.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) A concessão de desconto de 20% sobre o valor do tributo que foi declarado, mas não chegou a ser recolhido, constitui anistia? Justifique. (Valor: 0,65)', 'B) Poderia tal lei determinar a não cobrança de multa para os atos praticados com dolo pelo sujeito passivo para ocultar a ocorrência dos fatos geradores? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Tributário,Corpus: Código Tributário Nacional
+44_direito_tributario_questao_3,44_direito_tributario,"José recebeu em 2025, em seu domicílio, uma notificação para pagar ao Município Alfa o Imposto sobre a Transmissão de Bens Imóveis Inter Vivos (ITBI) referente à aquisição de um imóvel, situado no território municipal, levada a registro no ano de 2018. A cobrança também aplicara uma alíquota maior sobre a transmissão em razão do valor venal do imóvel.
+O fundamento legal da cobrança indicava que lei complementar do Município Alfa, em vigor desde 1/1/2017, estabelecera o prazo decadencial para a constituição dos créditos tributários municipais em dez anos. A mesma lei complementar determinara que o ITBI nesse Município passaria a ter alíquotas progressivas em razão do valor venal do imóvel.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) José poderia ter sido notificado para pagar tal ITBI no ano de 2025? Justifique. (Valor: 0,60)', 'B) Poderia ter sido aplicada a alíquota progressiva na cobrança de tal ITBI feita a José? Justifique. (Valor: 0,65)']","[0.6000000000000001, 0.65]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Hermenêutica Jurídica Complexa,Subdomínio: Direito Tributário,Corpus: Constituição Federal de 1988 e Código Tributário Nacional
+44_direito_tributario_questao_4,44_direito_tributario,"Um Juiz de Vara Federal de Execuções Fiscais despachou petição inicial de medida cautelar fiscal contra Mário, em 10/7/2024, concedendo liminar para o bloqueio de seus bens em valor que satisfizesse a dívida. A razão da concessão da liminar se deveu ao fato de que Mário, notificado pela Fazenda Nacional para que procedesse ao recolhimento de vultoso crédito fiscal, tentou colocar seus bens em nome de terceiros como forma de esvaziar seu patrimônio capaz de responder pelo débito.
+A liminar foi cumprida no dia 12/7/2024, por meio do bloqueio dos valores presentes na conta de Mário, com a juntada aos autos do mandado de cumprimento em 15/7/2024. A citação efetiva de Mário ocorreu apenas em 16/7/2024, com a juntada aos autos do mandado de citação devidamente cumprido em 18/7/2024.
+Diante desse cenário, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual o recurso cabível contra a concessão dessa liminar previsto na lei específica sobre medidas cautelares fiscais? Justifique. (Valor: 0,60)', 'B) A partir de quando se conta o prazo para Mário contestar o pedido liminar na medida cautelar fiscal descrita no enunciado? Justifique. (Valor: 0,65)']","[0.6000000000000001, 0.65]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Recuperação Factual Direta,Subdomínio: Direito Processual Tributário,Corpus: Lei nº 8.397/1992 (Medida Cautelar Fiscal)
+44_direito_penal_peca_profissional,44_direito_penal,"No dia 10/1/2024, Aluísio, entregador, foi realizar uma entrega na residência de Manoel, e, lá chegando, deparou- se com uma peça que imitava um jacaré. Pensando tratar-se do animal e acreditando estar em risco, deu golpes no suposto animal, vindo a destruir a peça de decoração avaliada em R$15.000,00 (quinze mil reais). Em razão disso, Manoel ajuizou queixa-crime em face de Aluísio, imputando-o como incurso nas penas do Art. 163 do CP (dano simples).
+Frustradas as tentativas de composição civil, e sendo recusada a transação penal pelo querelado, a instrução processual transcorreu sem intercorrências, tendo sido ouvidas as testemunhas que comprovaram a ocorrência do fato, tal como descrito. Ficou comprovado que o acusado danificou a peça de decoração pertencente a Manoel, bem como que Aluísio agiu sem as cautelas devidas na circunstância apresentada.
+O advogado de Manoel, em alegações finais orais, se manifestou deixando de formular pedido condenatório, da seguinte forma: ""Requeiro o prosseguimento do feito, com prolação de sentença"". A defesa de Aluísio e o Ministério Público, em seguida, manifestaram-se regularmente.
+A folha de antecedentes criminais de Aluísio indicava apenas uma condenação transitada em julgado, em 2023, por crime militar próprio (deserção).
+O Juiz do Juizado Especial Criminal da cidade de Flores, Estado de Campo Belo, local dos fatos, proferiu sentença condenando o acusado, nos termos da queixa. Fixou a pena-base em um mês de detenção e, diante da reincidência (condenação pelo delito de deserção), agravou a pena em mais um mês, chegando-se à pena de dois meses de detenção. Fixou o regime inicial semiaberto e deixou de substituir a pena privativa de liberdade por restritiva de direitos, em razão da reincidência.
+A sentença foi publicada e a defesa técnica foi intimada no dia 3/10/2025, uma sexta-feira, sendo os dias de segunda a sexta-feira úteis em todo o país.
+Como advogado(a) de Aluísio, redija a peça jurídica para o qual foi intimado(a), excluído o habeas corpus, considerando que a decisão não padece de vício de contradição, omissão, obscuridade ou ambiguidade, apresentando todas as teses jurídicas processuais e de direito material. A peça deverá ser datada no último dia do prazo legal de interposição. (Valor: 5,00)
+Obs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.",[''],[5.0],"Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Hermenêutica Jurídica Complexa,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Lei 9.099/1995 (Juizados Especiais)
+44_direito_penal_questao_1,44_direito_penal,"Carlos, com a intenção de obter vantagem indevida em detrimento da União, logrou efetuar o saque do seu Fundo de Garantia do Tempo de Serviço (FGTS) munido de laudo médico, atestando ser portador do vírus HIV, supostamente expedido por hospital público, documento materialmente falso e usado exclusivamente para esse fim.
+O Ministério Público Federal, então, ofereceu Acordo de Não Persecução Penal (ANPP) a Carlos, propondo, como condições, a reparação do dano e a prestação de serviços à comunidade, pelo período equivalente à pena mínima cominada aos delitos de uso de documento público falso em concurso material com o delito de estelionato majorado (Art. 297 c/c o Art. 304 e Art. 171, § 3º, na forma do Art. 69, todos do Código Penal).
+Como advogado(a) de Carlos, assistindo-o nas tratativas do Acordo de Não Persecução Penal, responda às questões a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual a tese de Direito Penal deve ser sustentada em relação ao enquadramento típico realizado pelo Ministério Público Federal? Fundamente. (Valor: 0,65)', 'B) As condições da proposta estão em conformidade com a legislação processual penal de regência? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal
+44_direito_penal_questao_2,44_direito_penal,"Manoela, um dia antes de completar 18 anos, envolveu-se em uma briga na escola, tendo atingido sua adversária na cabeça, com uma cadeira. O golpe foi tão severo que Alessandra, a vítima, foi levada ao hospital, inconsciente. Após um mês de internação, quando Manoela já tinha 18 anos, Alessandra faleceu, em decorrência da ação de Manoela.
+Por tais fatos, o Ministério Público denunciou Manoela perante o 1º Tribunal do Júri da Comarca da Capital, local da ocorrência, pelo homicídio doloso de Alessandra. Recebida a denúncia e expedido o mandado de citação, o Oficial de Justiça se dirigiu à residência de Manoela, situada na comarca onde ocorreram os fatos, e foi atendido pela mãe da citanda, que esclareceu que sua filha havia saído para trabalhar e retornava mais tarde. O Oficial de Justiça certificou essa informação e devolveu o mandado, o que motivou o Juízo a ordenar a citação por edital, decretando a suspensão do processo e do prazo prescricional.
+Como advogado(a) de Manoela, responda às questões a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) A fim de afastar, completamente, a responsabilidade penal de Manoela pelos fatos, qual a tese correta de Direito Penal deve ser sustentada em sua defesa? Justifique. (Valor: 0,65)', 'B) A citação por edital observou as normas do Direito Processual Penal? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal
+44_direito_penal_questao_3,44_direito_penal,"Karina e Daniel, casados, celebraram um contrato de locação residencial com César, ajustando o direito de retenção de benfeitorias voluptuárias. Ao término da locação, César, locador, recusou-se a pagar pela banheira de hidromassagem instalada pelos locatários Karina e Daniel. Por isso, a banheira foi retirada. Indignado, César ajuizou queixa-crime em desfavor de Karina, pelo tipo penal de exercício arbitrário das próprias razões. Deixou de oferecer a queixa em desfavor de Daniel, pois eles eram colegas de time de futebol. Como advogado(a) de Karina, responda aos itens a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual a tese de Direito Processual cabível para garantir a extinção da punibilidade de Karina? Fundamente. (Valor: 0,65)', 'B) Qual a tese correta de Direito Penal em face da imputação realizada? Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal
+44_direito_penal_questao_4,44_direito_penal,"Com intenção de subtrair o conteúdo do cofre da agência bancária do Banco Beta, homens armados sequestraram e fizeram refém o filho de Vitor, gerente da referida agência bancária, e dele exigiram a abertura do cofre e o acesso a todo o seu conteúdo. Premido pelo sequestro de seu filho, Vitor atendeu às exigências, permitindo que os sequestradores, fortemente armados, ingressassem na agência e realizassem a subtração dos valores.
+Instaurado inquérito policial, a autoridade policial concluiu pela responsabilidade penal de Vitor como partícipe da ação criminosa, pois localizou um vídeo que comprovaria prévio ajuste entre Vitor e os demais coautores, sugerindo ter havido simulação do sequestro.
+Essa mídia foi determinante no indiciamento e na denúncia de Vitor, que constituiu você como advogado(a) e lhe informou que o vídeo era uma montagem, pois não conhecia nenhum dos envolvidos no sequestro e não teve qualquer participação voluntária nos fatos.
+Você, na qualidade de advogado(a) de defesa de Vitor, responda às questões a seguir.
+Obs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.","['A) Qual a tese adequada de Direito Penal a ser sustentada em favor de Vitor, a fim de afastar a sua responsabilidade penal pelo fato? Fundamente. (Valor: 0,65)', 'B) Identifique a medida processual adequada a ser manejada pela defesa de Vitor para questionar a idoneidade do vídeo, com o respectivo embasamento legal. Justifique. (Valor: 0,60)']","[0.65, 0.6000000000000001]","Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.
+
+# ATENÇÃO
+
+Na elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.
+
+A detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.
+
+# OBSERVAÇÔES
+
+PEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+QUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+A partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).
+",Raciocínio Lógico-Dedutivo,Subdomínio: Direito Penal e Processual Penal,Corpus: Código Penal e Código de Processo Penal
